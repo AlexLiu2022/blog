@@ -1,7 +1,8 @@
 ---
-title: "code & table test"
+title: "test table & pic"
 date: 2022-09-20T16:19:51+08:00
 draft: false
+toc: true
 ---
 
 elasticsearch是elastic stack的核心，负责存储、搜索、分析数据

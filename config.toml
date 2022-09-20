@@ -34,7 +34,7 @@ footnoteReturnLinkContents = "↩"
 enableGitInfo = false
 
 # 是否生成 robots.txt 文件
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # 每一分页的文章数（仅对「文章摘要」首页布局有效）
 paginate = 5
@@ -292,7 +292,7 @@ uglyURLs = false
     # 说明：对弹性布局的顶栏无效
 
     # 背景
-    headerBackground = "white"
+    headerBackground = "alpha(var(--color-bg), 0.8) linear-gradient(white)"
     # 说明：https://developer.mozilla.org/zh-CN/docs/Web/CSS/background
 
     # 顶栏布局
@@ -320,7 +320,7 @@ uglyURLs = false
     # 以文字的形式显示，下方可配置字号和字色。字
     # 体请到底部的字体部分配置。单位：em。
     siteBrandFontSize = 1.5
-    siteBrandFontColor = "black"
+    siteBrandFontColor = "var(--color-contrast-high)"
 
 
     ######################################
@@ -1280,7 +1280,7 @@ uglyURLs = false
     iconAnimation = false
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = false
+    displayPoweredBy = true
 
     # 是否显示站点的版权信息
     displaySiteCopyright = false
