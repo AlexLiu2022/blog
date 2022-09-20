@@ -235,14 +235,14 @@ uglyURLs = false
         weight = 1
         pre = "internal"
         post = "grav"
-        identifier = "life"
+        identifier = "eating"
     [[menu.main]]
         pageref = "/work/"
         name = "工作"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
-        identifier = "tech"
+        identifier = "work"
     [[menu.main]]
         pageref = "/about/"
         name = "关于"
@@ -284,11 +284,11 @@ uglyURLs = false
     enableHeader = true
 
     # 是否自动隐藏
-    enableHeaderAutoHide = false
+    enableHeaderAutoHide = true
     # 说明：仅对弹性布局的顶栏有效
 
     # 是否在首页显示
-    displayHeaderInHome = false
+    displayHeaderInHome = true
     # 说明：对弹性布局的顶栏无效
 
     # 背景
@@ -327,15 +327,15 @@ uglyURLs = false
     # 菜单栏
 
     # 是否开启
-    enableMenu = true
+    enableMenu = false
     # 说明：对弹性布局的顶栏无效
 
     # 是否在首页显示
-    displayMenuInHome = true
+    displayMenuInHome = false
     # 说明：对弹性布局的顶栏无效
 
     # 是否按文章分区高亮当前菜单项
-    activeInSection = true
+    activeInSection = false
     # 说明：如果开启，那么当某一文章的分区名是某
     #      一菜单项中的 `url` 时，该文章页面中
     #      的该菜单项也会被高亮
