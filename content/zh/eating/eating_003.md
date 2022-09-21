@@ -6,8 +6,8 @@ draft: false
 
 
 
-![patrick-star](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/patrick-star.jpeg)
+![patrick-star](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/patrick-star.png)
 
-<center> 单身狗的情人节也可以很浪漫 ~
+<center> 单身狗的情人节也可以很浪漫 ~ </center> <br>
 
 <center><strong><i>Happy Valentine's Day !<i><strong> </center>
