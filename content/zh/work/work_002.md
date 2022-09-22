@@ -1,7 +1,6 @@
 ---
 title: "test code & TOC"
 date: 2022-09-21T01:49:13+08:00
-draft: false
 toc: true
 ---
 

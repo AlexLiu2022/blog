@@ -1,7 +1,7 @@
 ---
 title: "无题"
 date: 2022-06-08T16:16:16+08:00
-draft: false
+tags: ["emotions","personality"]
 ---
 
 <i>

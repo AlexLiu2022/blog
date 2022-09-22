@@ -1,7 +1,6 @@
 ---
 title: "test table & pic"
 date: 2022-09-20T16:19:51+08:00
-draft: false
 toc: true
 ---
 

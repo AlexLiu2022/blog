@@ -220,10 +220,10 @@ uglyURLs = false
     #     pre = "internal"
     #     post = "user-circle"
     [[menu.main]]
-        weight = 6
+        weight = 7
         identifier = "theme-switcher"
     [[menu.main]]
-        weight = 7
+        weight = 6
         identifier = "lang-switcher"
     # [[menu.main]]
     #     weight = 8
@@ -252,25 +252,47 @@ uglyURLs = false
         identifier = "about"
 
     ## 首页的底部链接
-     [[menu.home]]
-         url = "/eating/"
-         weight = 1
-         pre = "internal"
-         post = "grav"
-         identifier = "life"
-     [[menu.home]]
-         url = "/work/"
-         weight = 2
-         pre = "internal"
-         post = "wpexplorer"
-         identifier = "tech"
-     [[menu.home]]
-         url = "/about/"
-         weight = 3
-         pre = "internal"
-         post = "user-circle"
-         identifier = "about"    
+    [[menu.home]]
+        url = "/eating/"
+        weight = 1
+        pre = "internal"
+        post = "grav"
+        identifier = "life"
+    [[menu.home]]
+        url = "/work/"
+        weight = 2
+        pre = "internal"
+        post = "wpexplorer"
+        identifier = "tech"
+    [[menu.home]]
+        url = "/about/"
+        weight = 3
+        pre = "internal"
+        post = "user-circle"
+        identifier = "about"    
 
+    ## 社交栏
+    [[menu.socials]]
+        url = "https://github.com/AlexLiu2022"
+        name = "GitHub"
+        weight = 1
+        pre = "external"
+    [[menu.socials]]
+        url = "mailto:3130806899@qq.com"
+        name = "Email"
+        weight = 2
+        pre = "external"
+    ## 链接栏
+    [[menu.links]]
+        url = "/"
+        name = "Home"
+        weight = 1
+        pre = "internal"
+    [[menu.links]]
+        url = "/tags/"
+        name = "Tags"
+        weight = 2
+        pre = "internal"
 
 
 ##########################################
@@ -379,7 +401,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "eating.work"
+    siteDescription = "Eating's World & Eating's Work"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -1084,10 +1106,10 @@ uglyURLs = false
     # 文章版权
 
     # 是否开启
-    enablePostCopyright = false
+    enablePostCopyright = true
 
     # 是否显示（全局设置）
-    displayPostCopyright = true
+    displayPostCopyright = false
     # 说明：文章的 Front Matter 中的 `displayCopyright`
     #      的优先级高于此处
 
@@ -1096,10 +1118,10 @@ uglyURLs = false
     # 文章更新徽章
 
     # 是否开启
-    enablePostUpdatedBadge = false
+    enablePostUpdatedBadge = true
 
     # 是否显示（全局设置）
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # 说明：文章的 Front Matter 中的 `badge`
     #      的优先级高于此处
 
@@ -1113,17 +1135,17 @@ uglyURLs = false
     # 文章的 Git 版本信息
 
     # 是否开启
-    enablePostGitInfo = false
+    enablePostGitInfo = true
 
     # 是否显示（全局设置）
-    displayPostGitInfo = false
+    displayPostGitInfo = true
     # 说明：文章的 Front Matter 中的 `gitinfo`
     #      的优先级高于此处
 
     # 仓库地址
-    repoURL = ""
+    repoURL = "https://github.com/AlexLiu2022/blog"
     # 编辑地址
-    repoEditURL = ""
+    repoEditURL = "https://github.com/AlexLiu2022/blog/main"
 
     # Git 的图标
     gitIcon = "code-branch"
@@ -1131,7 +1153,7 @@ uglyURLs = false
     displayCommitHash = true
 
     # 是否显示改动信息
-    displayCommitMessage = true
+    displayCommitMessage = false
     # 改动信息的图标
     msgIcon = "info"
 
@@ -1179,15 +1201,15 @@ uglyURLs = false
     # 相关文章
 
     # 是否开启
-    enableRelatedPosts = false
+    enableRelatedPosts = true
 
     # 是否显示（全局设置）
-    displayRelatedPosts = false
+    displayRelatedPosts = true
     # 说明：文章的 Front Matter 中的 `related`
     #      的优先级高于此处
 
     # 相关文章数
-    relatedPostsNumber = 5
+    relatedPostsNumber = 3
 
     # 相关文章标题右边的图标
     relatedPostsIcon = "plus-circle"
@@ -1244,7 +1266,7 @@ uglyURLs = false
     enableBackToTopAutoHide = true
 
     # 是否在首页显示
-    displayBackToTopInHome = true
+    displayBackToTopInHome = false
 
     # 是否在移动端显示
     displayBackToTopOnMobile = false
@@ -1260,7 +1282,7 @@ uglyURLs = false
     enableFooter = true
 
     # 是否显示
-    displayFooter = false
+    displayFooter = true
 
     # 是否在首页显示
     displayFooterInHome = true
@@ -1280,13 +1302,13 @@ uglyURLs = false
     iconAnimation = false
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     # 是否显示站点的版权信息
     displaySiteCopyright = false
 
     # 自定义页脚（支持 Markdown）
-    customFooter = ""
+    customFooter = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "本站访客数"
@@ -1466,7 +1488,7 @@ uglyURLs = false
 
     # 英文
     [languages.en]
-        languageName = "English"
+        languageName = "EN"
         contentDir = "content/en"
         weight = 2
         languageCode = "en-US"
@@ -1483,22 +1505,36 @@ uglyURLs = false
         #     post = "user-circle"
         #     identifier = "about"
     [[languages.en.menu.main]]
-        pageref = "/about/"
-        name = "about"
+        pageref = "/eating/"
+        name = "Personal"
         weight = 1
+        pre = "internal"
+        post = "grav"
+        identifier = "eating"
+    [[languages.en.menu.main]]
+        pageref = "/work/"
+        name = "Work"
+        weight = 2
+        pre = "internal"
+        post = "wpexplorer"
+        identifier = "work"
+    [[languages.en.menu.main]]
+        pageref = "/about/"
+        name = "About"
+        weight = 3
         pre = "internal"
         post = "user-circle"
         identifier = "about"
     [[languages.en.menu.main]]
-        weight = 2
+        weight = 5
         identifier = "theme-switcher"
     [[languages.en.menu.main]]
-        weight = 3
+        weight = 4
         identifier = "lang-switcher"
     [languages.en.params]
-        homePoetry = ["This is a beautiful world.","Everyday,","I wake up feeling like","\" I'm on a mission. \"","And life is short,","so live in the moment and enjoy."]
-        siteDescription = "Blog of reuixiy in English."
-        listDateFormat = "January 2"
+        homePoetry = ["***This is***","***a beautiful world.***","***Everyday,***","***I wake up feeling like***","***\" I'm on a mission. \"***","***And life is short,***","***so live in the moment***","***and enjoy.***"]
+        siteDescription = "Eating's World & Eating's Work"
+        listDateFormat = "2006-01-02"
         fontFamilyTitle = "'Amstelvar', serif"
         fontFamilyHeadings = "'Amstelvar', serif"
         fontFamilyBody = "'Amstelvar', serif"
