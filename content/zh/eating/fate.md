@@ -1,7 +1,7 @@
 ---
 title: "缘"
 date: 2020-02-22T02:22:22+08:00
-tags: ["relationship","self-identity"]
+tags: ["关系","自我认同"]
 ---
 <center>
 我就是我的缘法 <br>
