@@ -38,9 +38,9 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 ## 技术选型
 
-- 使用 **GitHub** 仓库作为免费图床（请合理利用资源，不要浪费）
-- 使用 **JsDelivr** 的CDN加速服务（保证对仓库资源的访问速度)
-- 使用 **PicGo** 提供的自动上传服务简化操作
+- 使用 **[GitHub](https://github.com/)** 仓库作为免费图床（请合理利用资源，不要浪费）
+- 使用 **[jsDelivr](https://www.jsdelivr.com/)** 的免费CDN加速服务（保证对仓库资源的访问速度)
+- 使用 **[PicGo](https://picgo.github.io/PicGo-Doc/zh/)** 提供的自动上传服务简化操作
 
 这一套方案的优势是：**完全免费**、速度快、操作简便、图片可同时存放在本地和云端 数据自主安全
 
@@ -48,17 +48,17 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 ### 前置知识
 
-1. **Git** 和 **GitHub** 的基本使用
+1. **[Git](https://git-scm.com/)** 和 **GitHub** 的基本使用
 
 ### 分步演示
 
-1. 在GitHub上创建一个**公开**仓库用作免费图床
+1. 在GitHub上创建一个**public**仓库用作免费图床
 
     **注意** 必须是公开仓库 否则无法利用 **PicGo** 提供的自动上传服务
 
-2. 在 **GitHub** 个人账号页面：Settings --> Developer settings --> Personal access tokens --> Generate new token --> Expiration选no expiration --> Select scopes中勾选repo --> Generate token --> 记下生成的token
+2. 在 **GitHub** 个人账号页面：`Settings` --> `Developer settings` --> `Personal access tokens` --> `Generate new token` --> `Expiration`选`no expiration` --> `Select scopes`中勾选`repo` --> `Generate token` --> 记下生成的`token`
 
-3. 下载 **PicGo** 打开**图床设置**页面
+3. 下载 **[PicGo](https://picgo.github.io/PicGo-Doc/zh/)** 打开 **图床设置** 页面
     1. 打开GitHub图床页面 设为**默认图床**
     2. 设定仓库名 `username/repo_name`
     3. 设定分支名 `main`(或`master`)

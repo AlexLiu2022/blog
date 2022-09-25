@@ -1,6 +1,7 @@
 ---
 title: "test_post_git"
-date: 2022-09-21T01:49:13+08:00
+date: 2021-09-15T22:22:11+08:00
+tags: ["git","github"]
 toc: true
 ---
 
