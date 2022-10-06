@@ -56,9 +56,13 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
     **注意** 必须是公开仓库 否则无法利用 **PicGo** 提供的自动上传服务
 
-2. 在 **GitHub** 个人账号页面：`Settings` --> `Developer settings` --> `Personal access tokens` --> `Generate new token` --> `Expiration`选`no expiration` --> `Select scopes`中勾选`repo` --> `Generate token` --> 记下生成的`token`
+2. 生成`token`： 
+    - 在 **GitHub** 个人账号页面：`Settings` --> `Developer settings` 
+    - --> `Personal access tokens` --> `Generate new token` 
+    - --> `Expiration`选`no expiration` --> `Select scopes` 勾选 `repo` 
+    - --> `Generate token` --> 记下生成的`token`
 
-3. 下载 **[PicGo](https://picgo.github.io/PicGo-Doc/zh/)** 打开 **图床设置** 页面
+3. 下载 **[PicGo](https://picgo.github.io/PicGo-Doc/zh/)** 打开 **图床设置** 页面：
     1. 打开GitHub图床页面 设为**默认图床**
     2. 设定仓库名 `username/repo_name`
     3. 设定分支名 `main`(或`master`)
@@ -66,6 +70,8 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
     5. 指定存储路径 如`img/`
     6. 设定自定义域名 `https://gcore.jsdelivr.net/gh/username/repo_name`
 
-4. 在自己使用的编辑器中配置自动上传服务 如 **Typora** 在设置的 image --> Image Upload Setting中, 选取Image Uploader 为 **PicGo**
+4. 启用自动上传服务
+
+    在自己使用的编辑器中配置自动上传服务 如 **Typora** 在设置的 image --> Image Upload Setting中, 选取Image Uploader 为 **PicGo**, 其他编辑器配置请自行[搜索](https://www.bing.com)
 
 5. 完成 测试效果 尽情使用自己的图床吧～

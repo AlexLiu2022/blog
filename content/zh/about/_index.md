@@ -1,7 +1,6 @@
 ---
 title: "欢 迎 来 访！"
 date: 2022-09-20T16:00:10+08:00
-draft: false
 anchor: false
 ---
 

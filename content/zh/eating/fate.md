@@ -3,6 +3,8 @@ title: "缘"
 date: 2020-02-22T02:22:22+08:00
 tags: ["关系","自我认同"]
 ---
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/beach-boat-sun.png)
+
 <center><strong>
 我就是我的缘法 <br><br>
 抛却无谓的牵挂 <br><br>
@@ -12,4 +14,5 @@ tags: ["关系","自我认同"]
 身后会是 <br><br>
 怎样一幅油画
 <strong></center>
+
 
