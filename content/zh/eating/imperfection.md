@@ -25,5 +25,5 @@ tags: ["现实主义"]
 <center>在这场旅途中<br><br>
 在遗忘与铭记的过程里<br><br>
 我永远相信我的直觉<br><br>
- <strong><em>Life is beautiful</em><strong>
+ <strong><em><span style = "font-size: 1.5em">Life is beautiful</span></em><strong>
 <center>
