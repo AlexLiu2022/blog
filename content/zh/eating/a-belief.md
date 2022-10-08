@@ -12,4 +12,6 @@ tags: ["热忱","技术"]
 
 现在我有着这样的信条：**科技改变世界，技术解放生活。**
 
-**I'll be working on it.**
+<center><strong>
+<span style = "font-size: 1.5em">I'll be working on it.</span>
+</strong></center>
