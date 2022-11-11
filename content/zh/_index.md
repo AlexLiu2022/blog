@@ -7,7 +7,7 @@ title: " "
 
 <style>
 #main {
-	padding-top: 66px;
+	padding-top: 77px;
 	padding-bottom: 88px;
 }
 .post-title {
