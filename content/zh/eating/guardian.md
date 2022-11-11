@@ -10,7 +10,7 @@ tags: ["她","影视","韩剧","现实主义"]
 再去寻找可以拔出那把剑的女孩吧
 </center>
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-i-can-see-that-sword.png)
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-picture-i-can-see-your-sword.JPG)
 
 ---
 
@@ -19,7 +19,7 @@ tags: ["她","影视","韩剧","现实主义"]
 <br><br>
 就让我来拥有
 <br><br>
-守护的力量
+守护你的力量
 </center>
 
 <style>

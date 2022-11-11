@@ -4,7 +4,7 @@ date: 2022-09-22T12:22:22+08:00
 anchor: false
 ---
 
-**This is a personal blog which is Eating's World and has Eating's Work**
+**This is a personal blog. EATING's World & EATING's Work**
 
 Although "*someone*" is indeed a **literal big foodie**, It's still kind of shame to have a nickname called "<u>Eating</u>" ^_^ <br>
 

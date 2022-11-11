@@ -372,11 +372,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "poetry"
+    homeLayout = "page"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["隐约雷鸣","忽震迟滞心绪","神宫何在","苦寄下士逆旅","若见天光","莫辞独步孤路","知止应是","笑定明日乾坤"]
+    homePoetry = []
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -1532,7 +1532,7 @@ uglyURLs = false
         weight = 4
         identifier = "lang-switcher"
     [languages.en.params]
-        homePoetry = ["***This is***","***a beautiful world.***","***Everyday,***","***I wake up feeling like***","***\" I'm on a mission. \"***","***And life is short,***","***so live in the moment***","***and enjoy.***"]
+        homePoetry = []
         siteDescription = "Eating's World & Eating's Work"
         listDateFormat = "2006-01-02"
         fontFamilyTitle = "'Amstelvar', serif"

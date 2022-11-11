@@ -19,7 +19,7 @@ toc: true
 - 若**仅**本地存储无法保证数据安全
 - 图片资源存储在本地，难以使用**Git**对重要的文章进行版本控制
 
-而拥有了图床之后，图片地址将如下图所示,以**https**开头的形式存在
+有了图床，图片地址将如下，以**https**开头的链接形式存在
 
 ```url
 https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001.png
@@ -78,7 +78,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 4. 启用自动上传服务
 
-    在自己使用的编辑器中配置自动上传服务 如 **Typora** 在设置的 image --> Image Upload Setting中, 选取Image Uploader 为 **PicGo**, 强烈推荐使用[**Obsidian**](https://obsidian.md/)编辑器并配合插件使用获得最佳体验，其他编辑器配置请自行[搜索](https://www.bing.com)
+    在自己使用的编辑器中配置自动上传服务 如 **Typora** 在设置项 image --> Image Upload Setting中, 设置Image Uploader 为 **PicGo**, 此外强烈推荐使用[**Obsidian**](https://obsidian.md/)编辑器，可配合插件使用以获得最佳体验，其他编辑器配置请自行[搜索](https://www.bing.com)
     
 
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-004.png)
