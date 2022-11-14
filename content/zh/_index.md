@@ -1,6 +1,3 @@
----
-title: " "
----
 
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/cloudy-sky.jpeg)
 
@@ -19,4 +16,7 @@ title: " "
 }
 </style>
 
-
+<script>
+title = document.querySelector('h1.post-title.p-name');
+title.remove();
+</script>
