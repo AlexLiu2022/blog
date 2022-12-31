@@ -6,20 +6,24 @@ tags: ["情绪","人格"]
 
 
 
-<strong>
-<center> 他痴心想挽回的一切 </center>
-</strong>
-
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/eclipse.png)
-
-<strong>
-<br>
-<center> 恰是这一切的 </center>
-<br>
-<center> 不可挽回 </center>
-</strong>
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/moths-to-the-fire.jpg)
 
 
+<strong><center> 
+他痴心想挽回的一切 
+</center></strong>
+
+<strong><center>
+恰是这一切的 
+</center></strong>
+
+<strong><center>
+不可挽回 
+</center></strong>
 
 
-
+<style>
+.post-body {
+    margin-top: 0 !important;
+}
+</style>
