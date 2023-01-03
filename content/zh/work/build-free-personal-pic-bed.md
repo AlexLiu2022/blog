@@ -9,27 +9,28 @@ toc: true
 
 - 使用场景
 
-我们的文章（笔记、论文、博客等）中常需要图片。以使用常见的**Markdown**编辑器 **Typora** 记笔记的场景为例，如果我们直接将图片复制粘贴至其中，会得到如下的效果
+我们的文章（笔记、论文、博客等）中常需要添加图片。以使用常见的**Markdown**编辑器 **Typora** 记笔记的场景为例，如果我们直接将图片复制粘贴至其中，会得到如下的效果：
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001.png)
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001-change.png)
 
-可以看到图片的链接是其在**本地**的相对链接，这导致了以下的缺点
 
-- 文章难以迁移，若作为博客发布在网络上图片**无法正确加载**
+可以看到代表着图片的链接是其在**本地的相对链接**，这导致了以下的缺点
+
+- 文章难以迁移，若以博客等形式发布在网络上图片**无法正确加载**
 - 若**仅**本地存储无法保证数据安全
-- 图片资源存储在本地，难以使用**Git**对重要的文章进行版本控制
+- 图片资源存储在本地，由于**Git**特性，难以用其对存在大量图片的重要文章进行版本控制
 
-有了图床，图片地址将如下，以**https**开头的链接形式存在
+使用图床，图片地址将如下，以**https**开头的链接形式存在
 
 ```url
 https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001.png
 ```
 
-这样文章中只存储图片在服务器的链接**文本** 内容迁移、版本管理变得容易
+这样文章中只存储图片在服务器上的链接**文本** 内容迁移、版本管理变得容易
 
 ## 方案对比
 
-构建图床有多种方案 这里分析两种常见方式的利弊以证明我们技术选型的优越性
+构建图床有多种方案 这里分析两种常见方式的利弊以佐证我们技术选型的优越
 
 | 方案                          | 优点                   | 缺点                                                           |
 | ----------------------------- | ---------------------- | -------------------------------------------------------------- |
@@ -68,7 +69,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 3. 下载 **[PicGo](https://picgo.github.io/PicGo-Doc/zh/)** 打开 **图床设置** 页面：
     1. 打开GitHub图床页面 设为**默认图床**
-    2. 设定仓库名 为`username/repo_name`(替换为你自己的GitHub用户名/你在步骤1创建的仓库名)
+    2. 设定仓库名 为`username/repo_name`(**替换为你自己的**GitHub用户名/你在步骤1创建的仓库名)
     3. 设定分支名为 `main`(或`master`)
     4. 设置token为上一步生成的token
     5. 指定存储路径 如`img/`
@@ -87,3 +88,29 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 
 5. 完成 测试效果 尽情使用自己的图床吧～
+
+>在Typora配置好了图床后再粘贴图片出现Upload Image选项，点击即可
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-005.png)
+
+
+我们既能在自己的GitHub仓库中找到这些图片，
+
+>被上传到GitHub仓库的图片（注意！<mark>直接在GitHub中加载图片需要科学上网</mark>，这也是我们选择自定义链接CDN的原因）
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-006.png)
+
+还能通过命令`git pull`将它们拉取到本地存储，确保自己的数据安全。
+
+>终端中输入命令拉取图片到本地
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-007.png)
+
+>存储在本地的图片文件
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-008.png)
+
+下图是示例中上传到图床的图片:
+
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/Ophelia.JPG)
+
+它在博客中的源代码是
+```
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/Ophelia.JPG)
+```

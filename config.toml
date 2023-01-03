@@ -1485,6 +1485,8 @@ uglyURLs = false
         languageName = "中文"
         contentDir = "content/zh"
         weight = 1
+    [languages.zh.params]
+        siteDescription = "Eating's World & Eating's Work"
 
     # 英文
     [languages.en]
@@ -1545,3 +1547,4 @@ uglyURLs = false
         enableEmphasisPoint = false
         enableChinesePunctuationGlyphCorrection = false
         customFooter = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+

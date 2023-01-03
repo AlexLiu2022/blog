@@ -74,3 +74,6 @@ tags: ["节日","仪式感","自省","新年决心","和标签一样啰嗦又矫
 <center><strong><span style = "font-size: 2em">
 新年快乐！
 </span></strong></center>
+
+
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/fireworks.JPG)

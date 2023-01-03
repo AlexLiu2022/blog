@@ -1,11 +1,9 @@
-
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/cloudy-sky.jpeg)
-
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/sky-with-clouds.jpeg)
 
 <style>
 #main {
-	padding-top: 77px;
-	padding-bottom: 88px;
+	padding-top: 88px;
+	padding-bottom: 66px;
 }
 .post-title {
 	margin-top : 22px;
