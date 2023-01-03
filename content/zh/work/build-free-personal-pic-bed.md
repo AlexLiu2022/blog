@@ -9,7 +9,7 @@ toc: true
 
 - 使用场景
 
-我们的文章（笔记、论文、博客）中常有出现图片的需求，以使用常见的**Markdown**编辑器 **Typora** 记笔记的场景为例，如果我们直接将图片复制粘贴至其中，会得到如下图的效果
+我们的文章（笔记、论文、博客等）中常需要图片。以使用常见的**Markdown**编辑器 **Typora** 记笔记的场景为例，如果我们直接将图片复制粘贴至其中，会得到如下的效果
 
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001.png)
 
@@ -62,6 +62,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
     - --> `Expiration`选`no expiration` --> `Select scopes` 勾选 `repo` 
     - --> `Generate token` --> 记下生成的`token`
 
+>相关操作对应的github界面
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-002.png)
 
 
@@ -73,6 +74,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
     5. 指定存储路径 如`img/`
     6. 设定自定义域名 `https://gcore.jsdelivr.net/gh/username/repo_name`
 
+>图床设置页面
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-003.png)
 
 
@@ -80,7 +82,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
     在自己使用的编辑器中配置自动上传服务 如 **Typora** 在设置项 image --> Image Upload Setting中, 设置Image Uploader 为 **PicGo**, 此外强烈推荐使用[**Obsidian**](https://obsidian.md/)编辑器，可配合插件使用以获得最佳体验，其他编辑器配置请自行[搜索](https://www.bing.com)
     
-
+>obsidiain Image auto upload Plugin界面
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-004.png)
 
 

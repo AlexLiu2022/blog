@@ -137,11 +137,11 @@ $ git reset --commit id (few numbers are ok)
 
 `git checkout -- <file>`可以丢弃工作区的修改
 
-<\mark>命令`git checkout -- <file>`意思是，把文件在工作区的修改全部撤销<\/mark>，这里有两种情况：
+<mark>命令`git checkout -- <file>`意思是，把文件在工作区的修改全部撤销</mark>，这里有两种情况：
 
-一种是文件自修改后还没有被放到暂存区，现在，撤销修改就回到和版本库一模一样的状态；
+- 一种是文件自修改后还没有被放到暂存区，现在，撤销修改就回到和版本库一模一样的状态；
 
-一种是文件已经添加到暂存区后，又作了修改，现在，撤销修改就回到添加到暂存区后的状态。
+- 一种是文件已经添加到暂存区后，又作了修改，现在，撤销修改就回到添加到暂存区后的状态。
 
 <mark>总之，就是让文件回到最近一次`git commit`或`git add`时的状态。</mark>
 
@@ -167,7 +167,7 @@ rm 'test.txt'
 $ git commit -m "remove test.txt"
 ```
 
- <\mark>提示：先手动删除文件，然后使用git rm  \<file\>和git add\<file\>效果是一样的。<\/mark>
+ <mark>提示：先手动删除文件，然后使用`git rm  \<file\`和`git add\<file\>`效果是一样的。</mark>
 
 ---
 
