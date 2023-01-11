@@ -7,8 +7,8 @@ tags: ["关系","自我认同"]
 
 
 <center><strong>
-我就是我的缘法 <br><br>
-抛却无谓的牵挂 <br><br>
+无迹可寻的缘法 <br><br>
+越过无谓的牵挂 <br><br>
 它绽放在我的脚下 <br><br>
 勾勒出未来的烟霞 <br><br>
 </strong></center>

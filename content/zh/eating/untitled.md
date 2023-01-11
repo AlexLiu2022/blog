@@ -6,7 +6,8 @@ tags: ["情绪","人格"]
 
 
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/moths-to-the-fire.jpg)
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/the-log-is-already-a-boat.jpg)
+
 
 
 <strong><center> 
@@ -23,6 +24,9 @@ tags: ["情绪","人格"]
 
 
 <style>
+h1{
+margin-top :0;
+}
 .post-body {
     margin-top: 0 !important;
 }
