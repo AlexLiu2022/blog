@@ -1,7 +1,7 @@
 ---
-title: "搭建图床"
+title: "搭建个人图床"
 date: 2022-08-08T21:00:00+08:00
-tags: ["免费","工具","工作流","github","cdn"]
+tags: ["免费","工具","工作流","github","cdn","图床"]
 toc: true
 ---
 
@@ -11,16 +11,17 @@ toc: true
 
 我们的文章（笔记、论文、博客等）中常需要添加图片。以使用常见的**Markdown**编辑器 **Typora** 记笔记的场景为例，如果我们直接将图片复制粘贴至其中，会得到如下的效果：
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001-change.png)
+![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001-changed.jpeg)
 
 
-可以看到代表着图片的链接是其在**本地的相对链接**，这导致了以下的缺点
+
+可以看到代表着图片的链接是其在**本地的相对路径**，这导致了以下的缺点
 
 - 文章难以迁移，若以博客等形式发布在网络上图片**无法正确加载**
 - 若**仅**本地存储无法保证数据安全
 - 图片资源存储在本地，由于**Git**特性，难以用其对存在大量图片的重要文章进行版本控制
 
-使用图床，图片地址将如下，以**https**开头的链接形式存在
+使用图床，图片地址将如下，以存储在互联网上的**绝对路径**的形式存在
 
 ```url
 https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001.png

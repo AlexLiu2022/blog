@@ -1,6 +1,7 @@
 ---
 title: "Don't Panic"
 date: 2022-10-10T00:00:00+08:00
+tags: ["self-indentification"]
 ---
 
 <img style = "margin-top : 0" src = "https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/my-blue-view.png" />

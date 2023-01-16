@@ -195,40 +195,32 @@ uglyURLs = false
     #     weight = 1
     #     pre = "internal"
     #     post = "home"
-    # [[menu.main]]
-    #     pageref = "/posts/"
-    #     name = "文章"
-    #     weight = 2
-    #     pre = "internal"
-    #     post = "archive"
-    # [[menu.main]]
-    #     pageref = "/categories/"
-    #     name = "分类"
-    #     weight = 3
-    #     pre = "internal"
-    #     post = "th"
-    # [[menu.main]]
-    #     pageref = "/tags/"
-    #     name = "标签"
-    #     weight = 4
-    #     pre = "internal"
-    #     post = "tags"
+    #[[menu.main]]
+    #    pageref = "/posts/"
+    #    name = "文章"
+    #    weight = 5
+    #    pre = "internal"
+    #    post = "archive"    
     # [[menu.main]]
     #     pageref = "/about/"
     #     name = "关于"
     #     weight = 5
     #     pre = "internal"
     #     post = "user-circle"
-    [[menu.main]]
-        weight = 7
-        identifier = "theme-switcher"
-    [[menu.main]]
-        weight = 6
-        identifier = "lang-switcher"
+    #[[menu.main]]
+    #    pageref = "/categories/"
+    #    name = "分类"
+    #    weight = 5
+    #    pre = "internal"
+    #    post = "th"
+
     # [[menu.main]]
     #     weight = 8
     #     identifier = "search"
     #     post = "search"
+
+
+
     [[menu.main]]
         pageref = "/eating/"
         name = "个人"
@@ -243,13 +235,30 @@ uglyURLs = false
         pre = "internal"
         post = "wpexplorer"
         identifier = "work"
+
+    [[menu.main]]
+        pageref = "/tags/"
+        name = "标签"
+        weight = 3
+        pre = "internal"
+        post = "tags"
+  
     [[menu.main]]
         pageref = "/about/"
         name = "关于"
-        weight = 3
+        weight = 4
         pre = "internal"
         post = "user-circle"
         identifier = "about"
+
+    [[menu.main]]
+        weight = 5
+        identifier = "lang-switcher"
+
+    [[menu.main]]
+        weight = 6
+        identifier = "theme-switcher"
+
 
     ## 首页的底部链接
     [[menu.home]]
@@ -314,7 +323,7 @@ uglyURLs = false
     # 说明：对弹性布局的顶栏无效
 
     # 背景
-    headerBackground = "alpha(var(--color-bg), 0.8) linear-gradient(white)"
+    headerBackground = "alpha(var(--color-bg),1)"
     # 说明：https://developer.mozilla.org/zh-CN/docs/Web/CSS/background
 
     # 顶栏布局
@@ -455,7 +464,7 @@ uglyURLs = false
     displayPostsCount = true
 
     # 设置一个非负数来限制每一分类下展示的文章数
-    limitPostsLimit = -1
+    limitPostsLimit = 10
 
 
     ######################################
@@ -1482,11 +1491,9 @@ uglyURLs = false
 
     # 中文
     [languages.zh]
-        languageName = "中文"
+        languageName = "CN"
         contentDir = "content/zh"
         weight = 1
-    [languages.zh.params]
-        siteDescription = "Eating's World & Eating's Work"
 
     # 英文
     [languages.en]
@@ -1496,43 +1503,45 @@ uglyURLs = false
         languageCode = "en-US"
         hasCJKLanguage = false
         copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+
     [languages.en.taxonomies]
-        # category = "categories"
-        # tag = "tags"
-    [languages.en.menu]
-        # [[languages.en.menu.home]]
-        #     pageref = "/"
-        #     weight = 3
-        #     pre = "internal"
-        #     post = "user-circle"
-        #     identifier = "about"
+        category = "sections"
+        tag = "tags"
+
     [[languages.en.menu.main]]
         pageref = "/eating/"
-        name = "Personal"
+        name = "eating"
         weight = 1
         pre = "internal"
         post = "grav"
         identifier = "eating"
     [[languages.en.menu.main]]
         pageref = "/work/"
-        name = "Work"
+        name = "work"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
         identifier = "work"
     [[languages.en.menu.main]]
-        pageref = "/about/"
-        name = "About"
+        pageref = "/tags/"
+        name = "tags"
         weight = 3
+        pre = "internal"
+        post = "tags"
+    [[languages.en.menu.main]]
+        pageref = "/about/"
+        name = "about"
+        weight = 4
         pre = "internal"
         post = "user-circle"
         identifier = "about"
     [[languages.en.menu.main]]
         weight = 5
-        identifier = "theme-switcher"
-    [[languages.en.menu.main]]
-        weight = 4
         identifier = "lang-switcher"
+    [[languages.en.menu.main]]
+        weight = 6
+        identifier = "theme-switcher"
+
     [languages.en.params]
         homePoetry = []
         siteDescription = "Eating's World & Eating's Work"
