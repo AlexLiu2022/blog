@@ -1547,7 +1547,7 @@ uglyURLs = false
         siteDescription = "Eating's World & Eating's Work"
         listDateFormat = "2006-01-02"
         fontFamilyTitle = "'Noto Serif SC', 'Amstelvar', serif"
-        fontFamilyHeadings = "'Amstelvar', serif"
+        fontFamilyHeadings = "'EB Garamond','Amstelvar', serif"
         fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
         fontsLink = "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         lineHeight = 1.618

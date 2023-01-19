@@ -1,5 +1,5 @@
 ---
-title: "Build Personal Pic-Bed, Nree"
+title: "Build Personal Pic-Bed, Free"
 date: 2022-08-08T21:00:00+08:00
 tags: ["free","tools","workflows","github","cdn","pic-bed"]
 toc: true
@@ -111,4 +111,8 @@ Its source code in the blog is:
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/Ophelia.JPG)
 ```
 
-
+<style>
+h1.post-title.p-name {
+  margin-top: 0 !important;
+}
+</style>
