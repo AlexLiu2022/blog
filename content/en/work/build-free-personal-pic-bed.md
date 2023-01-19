@@ -1,5 +1,5 @@
 ---
-title: "Build Personal Pic-Bed, Free"
+title: "Build Personal Pic-Bed, Nree"
 date: 2022-08-08T21:00:00+08:00
 tags: ["free","tools","workflows","github","cdn","pic-bed"]
 toc: true
