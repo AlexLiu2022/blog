@@ -24,7 +24,7 @@ toc: true
 使用图床，图片地址将如下，以存储在互联网上的**绝对路径**的形式存在
 
 ```url
-https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001.png
+https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001-changed.jpeg
 ```
 
 这样文章中只存储图片在服务器上的链接**文本** 内容迁移、版本管理变得容易
