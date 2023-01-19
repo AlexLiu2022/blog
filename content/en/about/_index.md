@@ -6,7 +6,7 @@ anchor: false
 
 **This is a personal blog. It's EATING's World & EATING's Work**
 
-Although "*someone*" is indeed a **literal big foodie**, It's still kind of shame that my name is the homophone of  "<u>Eating</u>" ---The continuous tense of "eat". <br>
+Although "someone" is indeed a **literal big foodie**, It's still kind of shame that his name is the homophone of  "<u>Eating</u>" ---the continuous tense of "eat".   (｡ì _ í｡)
 
 However, as a man who won the title of "**Eating Good Baby**" in kindergarten, he reluctantly accepted this setting ~
 

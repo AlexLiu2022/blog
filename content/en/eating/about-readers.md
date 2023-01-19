@@ -27,7 +27,7 @@ The embarrassment didn't stop me from being passionate about everything this blo
 
 But it also makes me apprehensive about what the readers think. Eager to be understood, but also afraid of being misunderstood.
 
-After all, these are texts for readers other than myself, so it's more or less reserved. But the one living in these words is more real than the one others know. So don't mind interpreting all this as an attempt, in the process of alleviating real loneliness with readers who I do not need to face them directly, although the distance is still far, but also increases the possibility of escaping.
+After all, these are texts for readers other than myself, so it's more or less reserved. But the one living in these words is more real than the one others know. So don't mind interpreting all this as an attempt, in the process of alleviating real loneliness with readers who I do not need to face them directly, although the distance is still far,it also increases the possibility of escaping.
 
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/night-sky.jpg)
 
