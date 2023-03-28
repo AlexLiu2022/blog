@@ -96,7 +96,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 我们既能在自己的GitHub仓库中找到这些图片，
 
->被上传到GitHub仓库的图片（注意！<mark>直接在GitHub中加载图片需要科学上网</mark>，这也是我们选择自定义链接CDN的原因）
+>被上传到GitHub仓库的图片（注意！<mark>直接加载GitHub中的图片需要科学上网</mark>，这也是我们选择自定义链接CDN的原因）
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-006.png)
 
 还能通过命令`git pull`将它们拉取到本地存储，确保自己的数据安全。
