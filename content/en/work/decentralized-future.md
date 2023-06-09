@@ -30,7 +30,7 @@ Decentralization allows us to make the financial system a public resource like a
 
 > Not everyone wants to play the game, especially the game is designed to have a bad ending.
 
-No matter how well packaged the modern financial system is, it cannot escape its paragonal nature.
+No matter how well packaged the modern financial system is, it cannot escape its Ponzi scheme nature.
 
 
 Even U.S. Treasuries, which are generally considered the most reliable assets, may make us have to think a few more points after the farce of debt default risk:
