@@ -8,7 +8,7 @@
                     {{ if .Site.Params.displayListTitle }}
                         {{ if (eq .Kind "section") }}
                             <h1 class="list-title" style="margin-top:0;margin-bottom:27px;">{{ .Title | default (delimit (last 1 (split (strings.TrimSuffix "/_index.md" .Path) "/")) " ") }}</h1>
-                            {{if (eq .Section "eating")}}
+                            {{if (eq .Section "useless")}}
                             <center><span style="font-size:1.2em;font-weight:500;color:gray;">
                             当时明月在
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
                             曾照彩云归
                             </span></center>
                             {{end}}
-                            {{if (eq .Section "work")}}
+                            {{if (eq .Section "useful")}}
                             <center><span style="font-size:1.2em;font-weight:500;color:gray;">
                             科技改变世界 
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

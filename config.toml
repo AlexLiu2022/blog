@@ -222,14 +222,14 @@ uglyURLs = false
 
 
     [[menu.main]]
-        pageref = "/eating/"
+        pageref = "/useless/"
         name = "个人"
         weight = 1
         pre = "internal"
         post = "grav"
-        identifier = "eating"
+        identifier = "useless"
     [[menu.main]]
-        pageref = "/work/"
+        pageref = "/useful/"
         name = "工作"
         weight = 2
         pre = "internal"
@@ -533,7 +533,7 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    mainSections = ["eating","work"]
+    mainSections = ["useless","useful"]
 
 
     ######################################
@@ -1509,19 +1509,19 @@ uglyURLs = false
         tag = "tags"
 
     [[languages.en.menu.main]]
-        pageref = "/eating/"
-        name = "eating"
+        pageref = "/self/"
+        name = "self"
         weight = 1
         pre = "internal"
         post = "grav"
-        identifier = "eating"
+        identifier = "self"
     [[languages.en.menu.main]]
-        pageref = "/work/"
-        name = "work"
+        pageref = "/public/"
+        name = "public"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
-        identifier = "work"
+        identifier = "public"
     [[languages.en.menu.main]]
         pageref = "/tags/"
         name = "tags"
