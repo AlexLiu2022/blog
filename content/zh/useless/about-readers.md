@@ -4,11 +4,11 @@ date: 2023-01-03T01:22:22+08:00
 tags: ["博客","说明"]
 ---
 
-&nbsp;&nbsp;这个博客的个人归档中所有文章都是写给自己看的。但既然选择了让它们以网站的形式呈现，而不是静静地躺在本地文件夹中，就注定了它们会拥有读者。
+&nbsp;&nbsp;这个博客个人归档中的所有文章都是写给自己看的。但既然选择了让它们以网站的形式呈现，而不是静静地躺在本地文件夹中，就注定了它们会拥有读者。
 
-<img style = "margin-top : 20px;margin-bottom: 44px;" src = "https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/a-website-on-the-internet.jpg" />
+<img style = "margin-top : 20px ;margin-bottom: 44px;" src = "https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/a-website-on-the-internet.jpg" />
 
-&nbsp;&nbsp;是在写上一篇文章时被闪现的想法触发而开始思考“关于读者”的——或许这也是促使我把它改得更容易被理解的原因之一。很多事我不会开口和别人谈起，但却有着超越“自说自话”的表达欲，写在这里算是一种折衷。
+&nbsp;&nbsp;是在写上一篇文章时被闪现的想法触发而开始思考“关于读者”的——或许这也是促使我将其修改得更易被理解的原因之一。很多事我不会开口和别人谈起，但却有着超越“自说自话”的表达欲，写在这里算是一种折衷。
 
 &nbsp;&nbsp;挺矛盾的。
 

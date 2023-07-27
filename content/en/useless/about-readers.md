@@ -4,9 +4,9 @@ date: 2023-01-03T01:22:22+08:00
 tags: ["blog","explanation"]
 ---
 
-All the articles in the "eating"(aka personal) section of this blog are written for my own reading. But having chosen to present them as a website, rather than lying quietly in a local folder, they are destined to have readers.
+All the articles in the "Self"(aka useless) section of this blog are written for my own reading. But having chosen to present them as a website, rather than lying quietly in a local folder, they are destined to have readers.
 
-<img style = "margin-top : 20px;margin-bottom: 44px;" src = "https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/a-website-on-the-internet.jpg" />
+<img style = "margin-top : 20px; margin-bottom: 44px;" src = "https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/a-website-on-the-internet.jpg" />
 
 It was the idea that flashed through me while writing my last article that I started thinking about "about readers" ---and perhaps one of the reasons that prompted me to change it to be easier to understand. There are many things that I don't talk about with others, but I have a desire to express beyond "just talking to myself", and writing here can be considered as a compromise.
 

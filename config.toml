@@ -1509,28 +1509,28 @@ uglyURLs = false
         tag = "tags"
 
     [[languages.en.menu.main]]
-        pageref = "/self/"
-        name = "self"
+        pageref = "/useless/"
+        name = "Self"
         weight = 1
         pre = "internal"
         post = "grav"
-        identifier = "self"
+        identifier = "useless"
     [[languages.en.menu.main]]
-        pageref = "/public/"
-        name = "public"
+        pageref = "/useful/"
+        name = "Public"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
-        identifier = "public"
+        identifier = "useful"
     [[languages.en.menu.main]]
         pageref = "/tags/"
-        name = "tags"
+        name = "Tags"
         weight = 3
         pre = "internal"
         post = "tags"
     [[languages.en.menu.main]]
         pageref = "/about/"
-        name = "about"
+        name = "About"
         weight = 4
         pre = "internal"
         post = "user-circle"

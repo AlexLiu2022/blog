@@ -5,8 +5,7 @@ tags: ["情绪","人格"]
 ---
 
 
-
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/the-log-is-already-a-boat.jpg)
+<img style = "margin-top : 0; margin-bottom :44px" src = "https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/nothing.jpeg"/>
 
 
 
@@ -15,19 +14,23 @@ tags: ["情绪","人格"]
 </center></strong>
 
 <strong><center>
-恰是这一切的 
+恰是这一切的 不可挽回 
 </center></strong>
 
 <strong><center>
-不可挽回 
+
 </center></strong>
 
 
 <style>
 h1{
 margin-top :0;
+margin-bottom: 10px !important;
+}
+.post-meta{
+margin: 0px !important;
 }
 .post-body {
-    margin-top: 0 !important;
+margin-top: 0 !important;
 }
 </style>

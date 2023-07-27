@@ -9,19 +9,35 @@
                         {{ if (eq .Kind "section") }}
                             <h1 class="list-title" style="margin-top:0;margin-bottom:27px;">{{ .Title | default (delimit (last 1 (split (strings.TrimSuffix "/_index.md" .Path) "/")) " ") }}</h1>
                             {{if (eq .Section "useless")}}
-                            <center><span style="font-size:1.2em;font-weight:500;color:gray;">
-                            当时明月在
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            曾照彩云归
-                            </span></center>
+                            <div class="useless_cn">
+                                <center><span style="font-size:1.2em;font-weight:500;color:gray;">
+                                当时明月在
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                曾照彩云归
+                                </span></center>
+                            </div>
+                            <div class="useless_en">
+                                <center><span style="font-size:1.2em;font-weight:500;color:gray;">
+                                No such thing as a life is better than yours. No such thing.
+                                </span></center>
+                            </div>      
                             {{end}}
                             {{if (eq .Section "useful")}}
-                            <center><span style="font-size:1.2em;font-weight:500;color:gray;">
-                            科技改变世界 
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            技术解放生活
-                            </span></center>
+                            <div class="useful_cn">
+                                <center><span style="font-size:1.2em;font-weight:500;color:gray;">
+                                科技改变世界 
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                技术解放生活
+                                </span></center>
+                            </div>
+                            <div class="useful_en">
+                                <center><span style="font-size:1.2em;font-weight:500;color:gray;">
+                                Free me. 
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                                Free the world.
+                                </span></center>
+                            </div>
                             {{end}}
                         {{ end }}
                         {{ if (eq .Kind "term") }}
@@ -104,5 +120,29 @@
                 </div>
             </div>
         </main>
+
+<script>
+
+let lang = document.documentElement.lang
+
+let useless_cn = document.querySelector('.useless_cn')
+let useful_cn = document.querySelector('.useful_cn')
+let useless_en = document.querySelector('.useless_en')
+let useful_en = document.querySelector('.useful_en')
+
+if (lang !== 'zh-CN') {
+    if(useful_cn) useful_cn.remove() 
+    if(useless_cn) useless_cn.remove()
+}
+
+if (lang !== 'en-US') {
+    if(useful_en) useful_en.remove() 
+    if(useless_en) useless_en.remove()
+}
+
+
+</script>>
+
     {{ end }}
 {{ end }}
+

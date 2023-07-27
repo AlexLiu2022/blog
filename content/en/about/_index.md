@@ -4,16 +4,16 @@ date: 2022-09-22T12:22:22+08:00
 anchor: false
 ---
 
-**This is a personal blog. It's EATING's World & EATING's Work**
+**This website is a personal blog. It's EATING's World & EATING's Work**
 
-Although "someone" is indeed a **literal big foodie**, It's still kind of shame that his name is the homophone of  "<u>Eating</u>" ---the continuous tense of "eat".   (｡ì _ í｡)
+Although "someone" is indeed a **literal big foodie**, it's still kind of funny that his Chinese name is the homophone of  "<u>Eating</u>" ---the continuous tense of "eat".   (｡ì _ í｡)
 
-However, as a man who won the title of "**Eating Good Baby**" in kindergarten, he reluctantly accepted this setting ~
+However, as a man who won the title of "**Eating Good Baby**" back in the kindergarten, he reluctantly accepted this setting ~
 
-##### Archives
-- eating : All kinds of fragments / serious || pretentious articles
+##### Sections
+- Self : All kinds of fragments / serious || pretentious articles
 	- please read [About Readers](https://www.eating.work/en/eating/about-readers/)
-- work : workflows, notes, tech blogs
+- Public : workflows, notes, tech blogs
 
 <br>
 
