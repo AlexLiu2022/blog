@@ -7,7 +7,7 @@ tags: ["web3",'blockchain',"decentralized"]
 >The future will be decentralized
 
 
-Web 3.0, blockchain, what kind of narrative are these words  exactly trying to shape?
+Web3, blockchain, what kind of narrative are these words  exactly trying to shape?
 
 From my point of view, the most important part is "decentralization" 
 

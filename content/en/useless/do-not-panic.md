@@ -6,7 +6,7 @@ tags: ["self-indentification"]
 
 
 <center style = "font-size: 1.5em">
-<em>No such thing as a life is better than yours. </em>
+No such thing as a life is better than yours. 
 
 <img style = "margin-top : 30px; margin-bottom :30px" src = "https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/light-bule-vibe.jpeg" />
 

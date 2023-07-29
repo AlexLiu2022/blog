@@ -6,7 +6,7 @@ toc: true
 ---
 
 
-## Requirements analysis
+## Requirements Analysis
 
 - Usage scenarios
 
@@ -28,7 +28,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 This makes it easy to store only the link of the image on the server in the articles. Content migration and version management become easy
 
-## Solution comparison
+## Solution Comparison
 
 There are multiple options for building Pic-beds. Here is an analysis of the pros and cons of two common methods to support the superiority of our technology selection
 
@@ -37,7 +37,7 @@ There are multiple options for building Pic-beds. Here is an analysis of the pro
 | Pic-bed providers such as Qiniu Cloud, SM.MS and others | Easy to operate and usually fast | Paid, risk of bankruptcy, data autonomy, limited speed and capacity of the free version, and difficult migration |
 | self-built Pic-bed on a server                          | Data is secure and autonomous    | The operation is relatively cumbersome and there is a personal server cost                                       | 
 
-## Technical selection
+## Technical Selection
 
 - Use **[GitHub](https://github.com/)** repository as a free Pic-bed (please use resources wisely, don't waste them)
 - Free CDN service using **[jsDelivr](https://www.jsdelivr.com/)** (guarantee high-speed access to repository resources)
@@ -45,13 +45,13 @@ There are multiple options for building Pic-beds. Here is an analysis of the pro
 
 The advantages of this set of solutions are: **completely free**, fast speed, easy operation, pictures can be stored locally and in the cloud at the same time, and data is self-secure
 
-## Concrete implementation
+## Concrete Implementation
 
 ### Pre-knowledge
 
 1. Basic usages of [Git](https://git-scm.com/) and GitHub
 
-### Step-by-step instructions
+### Step-by-step Instructions
 
 1. Create a **public** repository on GitHub to use as a free Pic-bed
 
