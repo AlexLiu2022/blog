@@ -12,6 +12,8 @@ tags: ["规划","阶段","大学生活"]
 >**I[^1]  lived in the perpetual, delicious expectation of the future —— no matter what it might be. (Andre Gide)**
 
 
+<!--    向死而生     -->
+
 ---
 ***Happy birthday, ETH.***
 

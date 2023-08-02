@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://www.eating.work"
+baseURL = "https://eating.work"
 title = "EATING.WORK"
 languageCode = "zh-CN"
 hasCJKLanguage = true

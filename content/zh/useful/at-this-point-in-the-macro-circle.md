@@ -6,7 +6,8 @@ tags: ["金融","投资"]
 
 随着美联储在凌晨意料之中的加息25个基点 这轮加息周期很可能已进入了尾声
 
-![fed-chair-powell.png](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/fed-chair-powell.png)
+>![fed-chair-powell.png](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/fed-chair-powell.png)
+>现任美联储主席 Jerome Powell
 
 
 FED手中可用于恐吓投资者的筹码已所剩无几：年内停止加息并在接下来开启降息放水几乎是一种必然 美股在数月前就开启了事实上的牛市 市场正在为自己的判断买单：<u>不会陷入衰退 经济将会软着陆</u>
