@@ -104,9 +104,9 @@ uglyURLs = false
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://www.eating.work"
+    website = "https://eating.work"
     # 推特
-    twitter = "2022AlexLiu"
+    twitter = "AlexLiuWeb3"
 
 # 相关文章
 [related]
