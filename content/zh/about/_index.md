@@ -13,7 +13,7 @@ anchor: false
 ##### 归档
 - 个人 ：各种碎碎念(中二 || 严肃) 
 	- 请阅读 [关于读者](https://www.eating.work/eating/about-readers/)
-- 工作 ：工作流、笔记、技术博客
+- 工作 ：工作流、笔记、技术博客、投资相关
 
 ##### 说明
  本博客完全**开源**，文章在发布后可能会持续改动，可在[GitHub](https://github.com/AlexLiu2022/blog)查看相关信息

@@ -1546,11 +1546,16 @@ uglyURLs = false
         homePoetry = []
         siteDescription = "Eating's World & Eating's Work"
         listDateFormat = "2006-01-02"
+        fontFamilySiteBrand = "'EB Garamond','Amstelvar', serif"
+        fontFamilyMenu = "'EB Garamond','Amstelvar', serif"
         fontFamilyTitle = "'Cormorant Infant','Noto Serif SC', serif"        
         fontFamilyHeadings = "'EB Garamond','Amstelvar', serif"
-        fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
-        fontsLink = "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Infant:wght@700&display=swap"
-        lineHeight = 1.618
+        fontFamilyBody = "'Asap', sans-serif,'Noto Serif SC', serif"
+        fontSize = 20
+
+
+        fontsLink = "https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,200&family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Infant:wght@700&display=swap"
+        lineHeight = 1.55
         enableJustify = false
         enableSmallCaps = true
         enableEmphasisPoint = false

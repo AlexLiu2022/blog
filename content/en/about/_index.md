@@ -6,14 +6,15 @@ anchor: false
 
 **This website is a personal blog. It's EATING's World & EATING's Work**
 
-Although "someone" is indeed a **literal big foodie**, it's still kind of funny that his Chinese name is the homophone of  "<u>Eating</u>" ---the continuous tense of "eat".   (｡ì _ í｡)
+Although "someone" is indeed a **literal big foodie**, it's still kind of funny that his Chinese name is the homophone of  "<u>Eating</u>" --- the continuous tense of "eat".  <span style="white-space: nowrap;">(｡ì _ í｡)</span>
+ 
 
 However, as a man who won the title of "**Eating Good Baby**" back in the kindergarten, he reluctantly accepted this setting ~
 
 ##### Sections
 - Self : All kinds of fragments / serious || pretentious articles
 	- please read [About Readers](https://www.eating.work/en/eating/about-readers/)
-- Public : workflows, notes, tech blogs
+- Public : workflows, notes, tech blogs, investment related 
 
 <br>
 
@@ -36,5 +37,8 @@ Welcome to my [GitHub](https://github.com/AlexLiu2022). **Have a nice day!**
 <style>
 h1{
   margin: 0 !important;
+}
+.post-body {
+margin-top: 2.7em !important;
 }
 </style>

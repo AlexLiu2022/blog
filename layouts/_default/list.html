@@ -18,7 +18,7 @@
                                 </span></center>
                             </div>
                             <div class="useless_en">
-                                <center><span style="font-size:1.2em;font-weight:500;color:gray;">
+                                <center><span style="font-size:1.2em;font-weight:500;color:gray;font-family:'EB Garamond','Amstelvar', serif;">
                                 No such thing as a life is better than yours. No such thing.
                                 </span></center>
                             </div>      
@@ -31,7 +31,7 @@
                                 </span></center>
                             </div>
                             <div class="useful_en">
-                                <center><span style="font-size:1.2em;font-weight:500;color:gray;">
+                                <center><span style="font-size:1.2em;font-weight:500;color:gray;font-family:'EB Garamond','Amstelvar', serif;">
                                 Free me. 
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,7 +41,7 @@
                             {{end}}
                         {{ end }}
                         {{ if (eq .Kind "term") }}
-                            <h1 class="list-title">{{ .Title | default .Data.Term | default (delimit (last 1 (split (strings.TrimSuffix "/_index.md" .Path) "/")) " ") }}</h1>
+                            <h1 class="list-title" >{{ .Title | default .Data.Term | default (delimit (last 1 (split (strings.TrimSuffix "/_index.md" .Path) "/")) " ") }}</h1>
                         {{ end }}
                     {{ end }}
 
@@ -140,9 +140,20 @@ if (lang !== 'en-US') {
     if(useless_en) useless_en.remove()
 }
 
+</script>
 
-</script>>
+<style type="text/css">
+    .list-item-title{
+        font-family:'EB Garamond','Amstelvar', serif;
+    }
+    .list-item-time{
+        font-family:'EB Garamond','Amstelvar', serif;
+    }
+</style>
 
     {{ end }}
 {{ end }}
+
+
+
 
