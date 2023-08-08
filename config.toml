@@ -1550,7 +1550,7 @@ uglyURLs = false
         fontFamilyMenu = "'EB Garamond','Noto Serif SC', serif"
         fontFamilyTitle = "'Cormorant Infant','Noto Serif SC', serif"        
         fontFamilyHeadings = "'EB Garamond','Noto Serif SC', serif"
-        fontFamilyBody = "'Asap', sans-serif,'Noto Serif SC', serif"
+        fontFamilyBody = "'Asap','Noto Serif SC', sans-serif"
         fontSize = 20
 
 
