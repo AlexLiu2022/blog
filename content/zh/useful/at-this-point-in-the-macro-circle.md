@@ -28,11 +28,15 @@ FED手中可用于恐吓投资者的筹码已所剩无几：年内停止加息�
 	- 在我的认知内 We are still early
 	- 政治层面 立法层面 合规层面 整体向好
 	- 随着认知转变与共识建立 走势的内生逻辑会逐渐独立于美股 对宏观事件的反应甚至会相反 [It's gonna be a hedge](https://www.eating.work/useful/decentralized-future/)
+	 <!-- Bitcoin/Ethereum   -->
 	- <del>屁股决定脑袋 —— 我会重仓</del>
 	- 看好的赛道
 		- 扩容基础设施、区块链应用层 :Ethereum Layer 2 (especially implemented by validity proof , namely so-called zk-rollup)
-		- web3 games (The $100bn a year spent "renting" items is going to turn into a trillion dollar ownable economy. )
+		<!-- Polygon/Starknet -->
+		- web3 games (The $100bn a year spent "renting" items is going to turn into a trillion dollar ownable economy. )		
+		<!-- Immutable  -->
 		- Defi Infrastructure : Generating Yield with stable sources which are immutable to outer market conditions.
+		<!-- Frax Finance/Pendle   -->
 - A股/港股：敬而远之
 	- 不否认存在较大的上涨空间
 	- 忧患意识让我远离铁拳
