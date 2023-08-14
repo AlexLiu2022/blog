@@ -4,7 +4,7 @@ date: 2023-08-11T23:55:00+08:00
 tags: ['初心','热忱','目标','自我认同','历史人物','宏大叙事']
 ---
 
->![photo_of_franklin_d_roosevelt.jpeg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/photo_of_franklin_d_roosevelt.jpeg)富兰克林·德拉诺·罗斯福 美国第32任总统 (1933 - 1945) 白宫官方照片
+>![photo_of_franklin_d_roosevelt.jpeg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/photo_of_franklin_d_roosevelt.jpeg)富兰克林·德拉诺·罗斯福 美国第32任总统 (1933 - 1945) 官方肖像
 
 **"The only thing we have to fear, is fear itself."**  - Franklin Delano Roosevelt 
 
@@ -20,9 +20,9 @@ tags: ['初心','热忱','目标','自我认同','历史人物','宏大叙事']
 
 当谈及伟大人物，他们身上的传奇色彩，他们人尽皆知的警句，并心生向往时，我们是出于怎样的心理？
 
-人对宏大叙事存在着<u>向往</u>。将语境只局限于自身，对人类这样一种社会生物而言，似乎总是不甘心的。
+人对宏大叙事存在着<u>向往</u>。把语境只局限于自身，对人类这样一种社会生物而言，似乎总是不甘心的。
 
-而个人英雄主义十分卖座。它让人拥有不自觉的<u>代入感</u>。推行新政（New Deal），成功扭转国内孤立主义，奠定二战胜局，几以一己之力将美国推上世界霸主宝座的罗斯福的故事是荡气回肠的。
+而个人英雄主义十分卖座。它拥有让人不自觉的<u>代入感</u>。推行新政（New Deal），成功扭转国内孤立主义，奠定二战胜局，几以一己之力将美国推上世界霸主宝座的罗斯福的故事是荡气回肠的。
 
 同样，甚至更加虚弱的血肉之躯[^2]。常人莫能及的意志力。
 
