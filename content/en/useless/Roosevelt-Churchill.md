@@ -4,7 +4,7 @@ date: 2023-08-11T23:55:00+08:00
 tags: ['target','original intention','enthusiasm','self-indentification ','historical figure','grand narrative']
 ---
 
->![franklin_d_roosevelt.jpeg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/photo_of_franklin_d_roosevelt.jpeg) Official portraits of Franklin Delano Roosevelt from the white house
+>![franklin_d_roosevelt.jpeg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/photo_of_franklin_d_roosevelt.jpeg) Official portrait of Franklin Delano Roosevelt from the white house
 
 
 **"The only thing we have to fear, is fear itself."**  - Franklin Delano Roosevelt 
