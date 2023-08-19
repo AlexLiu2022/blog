@@ -4,17 +4,24 @@ date: 2023-08-11T23:55:00+08:00
 tags: ['初心','热忱','目标','自我认同','历史人物','宏大叙事']
 ---
 
->![photo_of_franklin_d_roosevelt.jpeg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/photo_of_franklin_d_roosevelt.jpeg)富兰克林·德拉诺·罗斯福 美国第32任总统 (1933 - 1945) 官方肖像
+>![darkest-hour-churchill.jpg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/darkest-hour-churchill.jpg)演讲[^1]结束后独自离场的丘吉尔  &nbsp; &nbsp; &nbsp; &nbsp; 电影《至暗时刻》剧照
 
-**"The only thing we have to fear, is fear itself."**  - Franklin Delano Roosevelt 
-
-我们唯需恐惧的，是恐惧本身。
+---
 
 **"Success is not final. Failure is not fatal. It’s the courage to continue that counts."** - Winston Churchill
 
 成败的意义不及继续的勇气。
 
->![darkest-hour-churchill.jpg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/darkest-hour-churchill.jpg)演讲[^1]结束后独自离场的丘吉尔  &nbsp; &nbsp; &nbsp; &nbsp; 电影《至暗时刻》剧照
+---
+
+>![FDR_First_Inaugural_Address.jpg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/FDR_first_inaugural_address.jpg)
+><center>在其第一任总统就职仪式上的罗斯福</center>
+
+**"The only thing we have to fear, is fear itself."**  - Franklin Delano Roosevelt 
+
+我们唯需恐惧的，是恐惧本身。
+
+
 
 ---
 
@@ -22,9 +29,10 @@ tags: ['初心','热忱','目标','自我认同','历史人物','宏大叙事']
 
 人对宏大叙事存在着<u>向往</u>。把语境只局限于自身，对人类这样一种社会生物而言，似乎总是不甘心的。
 
-而个人英雄主义十分卖座。它拥有让人不自觉的<u>代入感</u>。推行新政（New Deal），成功扭转国内孤立主义，奠定二战胜局，几以一己之力将美国推上世界霸主宝座的罗斯福的故事是荡气回肠的。
+而个人英雄主义十分卖座。它拥有让人不自觉的<u>代入感</u>。
 
-同样，甚至更加虚弱的血肉之躯[^2]。常人莫能及的意志力。
+- 推行新政（New Deal），成功扭转国内孤立主义，奠定二战胜局，几以一己之力将美国推上世界霸主宝座的罗斯福的故事是荡气回肠的。同样，甚至更加虚弱的血肉之躯[^2]。常人莫能及的意志力。
+- 在议会大吼出振奋人心词句的丘吉尔，身上肩负着时代的千钧使命。我会带领你们，直至最后。
 
 如何处理这一份<span style = "color:purple">**向往\代入感**</span>，是值得思考的问题。
 - 如果放任不理，在最终回顾时，会觉得**愧**对这段旅程吗？

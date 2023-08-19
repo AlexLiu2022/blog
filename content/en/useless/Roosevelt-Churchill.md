@@ -1,18 +1,24 @@
 ---
 title: "Roosevelt & Churchill"
 date: 2023-08-11T23:55:00+08:00
-tags: ['target','original intention','enthusiasm','self-indentification ','historical figure','grand narrative']
+tags: ['target','original-intention','enthusiasm','self-indentification ','historical-figure','grand-narrative']
 ---
 
->![franklin_d_roosevelt.jpeg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/photo_of_franklin_d_roosevelt.jpeg) Official portrait of Franklin Delano Roosevelt from the white house
+>![darkest-hour-churchill.jpg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/darkest-hour-churchill.jpg)Churchill after the speech[^1],  still of the film ***Darkest Hour***
 
-
-**"The only thing we have to fear, is fear itself."**  - Franklin Delano Roosevelt 
+---
 
 **"Success is not final. Failure is not fatal. It’s the courage to continue that counts."** - Winston Churchill
 
+---
 
->![darkest-hour-churchill.jpg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/darkest-hour-churchill.jpg)Churchill after the speech[^1],  still of the film ***Darkest Hour***
+>![FDR_First_Inaugural_Address.jpg](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/FDR_first_inaugural_address.jpg)
+><center>FDR First Inaugural Address</center>
+
+**"The only thing we have to fear, is fear itself."**  - Franklin Delano Roosevelt 
+
+
+
 
 ---
 
