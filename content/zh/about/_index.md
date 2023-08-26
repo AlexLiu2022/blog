@@ -11,7 +11,7 @@ anchor: false
 不过作为在幼儿园就获得“**进餐乖宝宝**”称号的男人,就勉强接受这个设定啦～
 
 ##### 归档
-- 知识库 ：在[Obsidian](https://obsidian.md/)上所记笔记形成的知识网络 通过插件[Digital Gardens](https://github.com/oleeskild/obsidian-digital-garden) 发布
+- 知识库 ：在[Obsidian](https://obsidian.md/)上所记笔记形成的知识网络 通过插件[Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) 发布
 - 个人 ：各种碎碎念(中二 || 严肃) 
 	- 请阅读 [关于读者](https://eating.work/useless/about-readers/)
 - 工作 ：工作流、笔记、技术博客、投资相关
