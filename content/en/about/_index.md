@@ -4,16 +4,17 @@ date: 2022-09-22T12:22:22+08:00
 anchor: false
 ---
 
-**This website is a personal blog. It's EATING's World & EATING's Work**
+**This website is a personal blog.  It's my world & has my work.**
 
-Although "someone" is indeed a **literal big foodie**, it's still kind of funny that his Chinese name is the homophone of  "<u>Eating</u>" --- the continuous tense of "eat".  <span style="white-space: nowrap;">(｡ì _ í｡)</span>
+Although "someone" is indeed a **literal big foodie**, it's still kind of funny that his Chinese name is the homophone of  "<u>Eating</u>"[^1] --- the continuous tense of "eat".  <span style="white-space: nowrap;">(｡ì _ í｡)</span>
  
 
 However, as a man who won the title of "**Eating Good Baby**" back in the kindergarten, he reluctantly accepted this setting ~
 
 ##### Sections
+- Library : The knowledge network formed by the notes taken on [Obsidian](https://obsidian.md/), published through the plug-in [Digital Gardens](https://github.com/oleeskild/obsidian-digital-garden) 
 - Self : All kinds of fragments / serious || pretentious articles
-	- please read [About Readers](https://www.eating.work/en/eating/about-readers/)
+	- please read [About Readers](https://eating.work/en/useless/about-readers/)
 - Public : workflows, notes, tech blogs, investment related 
 
 <br>
@@ -24,7 +25,7 @@ However, as a man who won the title of "**Eating Good Baby**" back in the kinder
 Switch from EN to CN in the menu bar to view Chinese content (content is different and not updated synchronously)
 
 - Pages that exist in Chinese  will be redirected to the Chinese version
-- Ohters will be redirected to the Chinese version's homepage
+- Others will be redirected to the Chinese version's homepage
 
 
 ##### Declaration
@@ -34,6 +35,11 @@ Switch from EN to CN in the menu bar to view Chinese content (content is differe
 Welcome to my [GitHub](https://github.com/AlexLiu2022). **Have a nice day!**
 
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
+
+[^1]: The origin of the site's & domain's name, boring enough
+
+
+
 <style>
 h1{
   margin: 0 !important;

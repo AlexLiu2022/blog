@@ -220,6 +220,12 @@ uglyURLs = false
     #     post = "search"
 
 
+   [[menu.main]]
+        url = "https://notes.eating.work"
+        name = "知识库"
+        weight = -1
+        pre = "internal"
+        post = "search"  
 
     [[menu.main]]
         pageref = "/useless/"
@@ -252,23 +258,19 @@ uglyURLs = false
         identifier = "about"
 
     [[menu.main]]
-        weight = 5
+        weight = 6
         identifier = "lang-switcher"
 
-    [[menu.main]]
-        weight = 6
-        identifier = "theme-switcher"
-
-
+ 
     ## 首页的底部链接
     [[menu.home]]
-        url = "/eating/"
+        url = "/useless/"
         weight = 1
         pre = "internal"
         post = "grav"
         identifier = "life"
     [[menu.home]]
-        url = "/work/"
+        url = "/useful/"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
@@ -565,9 +567,9 @@ uglyURLs = false
     # 说明：light（浅色模式）或 dark（深色模式）
 
     # 是否隐藏模式切换开关
-    hideThemeToggle = false
+    hideThemeToggle = true
     # 是否在首页隐藏模式切换开关
-    hideThemeToggleInHome = false
+    hideThemeToggleInHome = true
     # 说明：如果开启了深色模式，即使你隐藏了开关，
     #      你的读者依然可能以深色模式阅读你的博
     #      客，如果该读者的系统设置为深色模式的
@@ -1508,20 +1510,24 @@ uglyURLs = false
         category = "sections"
         tag = "tags"
 
+   [[languages.en.menu.main]]
+        url = "https://notes.eating.work"
+        name = "Library"
+        weight = -1
+        pre = "internal"
+        post = "search"  
     [[languages.en.menu.main]]
         pageref = "/useless/"
         name = "Self"
         weight = 1
         pre = "internal"
         post = "grav"
-        identifier = "useless"
     [[languages.en.menu.main]]
         pageref = "/useful/"
         name = "Public"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
-        identifier = "useful"
     [[languages.en.menu.main]]
         pageref = "/tags/"
         name = "Tags"
@@ -1538,10 +1544,7 @@ uglyURLs = false
     [[languages.en.menu.main]]
         weight = 5
         identifier = "lang-switcher"
-    [[languages.en.menu.main]]
-        weight = 6
-        identifier = "theme-switcher"
-
+    
     [languages.en.params]
         homePoetry = []
         siteDescription = "Eating's World & Eating's Work"
