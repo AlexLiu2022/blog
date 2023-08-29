@@ -10,14 +10,14 @@ anchor: false
 
 不过作为在幼儿园就获得“**进餐乖宝宝**”称号的男人,就勉强接受这个设定啦～
 
-##### 分区
-- 笔记 ：在[Obsidian](https://obsidian.md/)上所记笔记形成的知识网络 通过插件[Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) 发布
+##### 分区 (<u>笔记 & 网盘是外部链接</u>)
+- 笔记 ：[Obsidian](https://obsidian.md/)上笔记形成的知识网络 通过插件[Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) 发布
 - 网盘：使用[Alist](https://alist.nn.ci/)搭建的文件列表 
-	- 整合云服务器以及各个网盘的存储空间
+	- 整合云服务器及各个网盘
 	- 个人文件管理 || 分享
+- 工作 ：工作流、笔记、技术博客、投资相关
 - 个人 ：各种碎碎念(中二 || 严肃) 
 	- 请阅读 [关于读者](https://eating.work/useless/about-readers/)
-- 工作 ：工作流、笔记、技术博客、投资相关
 - 标签：标签云 用于分类 & 检索
 
 ##### 说明
@@ -37,7 +37,20 @@ anchor: false
 
 
 <style>
-h1{
-  margin-top: 0 !important;
+#main {
+	padding-top: 88px;
+	padding-bottom: 66px;
+}
+.post-title {
+	margin-top : 22px;
+	font-size: 1.77em;
+}
+.post-body {
+    margin-top: 0 !important;
 }
 </style>
+
+<script>
+let title = document.querySelector('h1.post-title.p-name');
+title.remove();
+</script>

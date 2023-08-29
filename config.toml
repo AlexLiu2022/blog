@@ -220,17 +220,20 @@ uglyURLs = false
     #     post = "search"
 
 
+    [[menu.main]]
+        pageref = "/about/"
+        name = "关于"
+        weight = 1
+        pre = "internal"
+        post = "user-circle"
+        identifier = "about"
+
    [[menu.main]]
         url = "https://notes.eating.work"
         name = "笔记"
-        weight = 1
+        weight = 2
         pre = "external"
         post = "search"  
-
-    [[menu.main]]
-        name = "||"
-        weight = 2
-        url ="#"
         
     [[menu.main]]
         url = "https://files.freezing.cool"
@@ -240,30 +243,26 @@ uglyURLs = false
         post = "folder"      
 
     [[menu.main]]
-        pageref = "/useless/"
-        name = "个人"
-        weight = 4
-        pre = "internal"
-        post = "grav"
-
-    [[menu.main]]
         pageref = "/useful/"
         name = "工作"
-        weight = 5
+        weight = 4
         pre = "internal"
         post = "wpexplorer"
 
     [[menu.main]]
-        pageref = "/about/"
-        name = "关于"
+        name = "||"
+        weight = 5
+        url ="#"   
+
+    [[menu.main]]
+        pageref = "/useless/"
+        name = "个人"
         weight = 6
         pre = "internal"
-        post = "user-circle"
-        identifier = "about"
+        post = "grav"          
 
     [[menu.main]]
         pageref = "/tags/"
-        name = "标签"
         weight = 7
         pre = "internal"
         post = "tags"
@@ -1525,16 +1524,19 @@ uglyURLs = false
         category = "sections"
         tag = "tags"
 
+    [[languages.en.menu.main]]
+        pageref = "/about/"
+        name = "About"
+        weight = 1
+        pre = "internal"
+        post = "user-circle"
+        identifier = "about"
    [[languages.en.menu.main]]
         url = "https://notes.eating.work"
         name = "Notes"
-        weight = 1
+        weight = 2
         pre = "external"
         post = "search"  
-    [[languages.en.menu.main]]
-        name = "||"
-        weight = 2
-        url ="#"
     [[languages.en.menu.main]]
         url = "https://files.freezing.cool"
         name = "Files"
@@ -1542,27 +1544,23 @@ uglyURLs = false
         pre = "external"
         post = "folder" 
     [[languages.en.menu.main]]
-        pageref = "/useless/"
-        name = "Self"
-        weight = 4
-        pre = "internal"
-        post = "grav"
-    [[languages.en.menu.main]]
         pageref = "/useful/"
         name = "Public"
-        weight = 5
+        weight = 4
         pre = "internal"
         post = "wpexplorer"
     [[languages.en.menu.main]]
-        pageref = "/about/"
-        name = "About"
+        name = "||"
+        weight = 5
+        url ="#"
+    [[languages.en.menu.main]]
+        pageref = "/useless/"
+        name = "Self"
         weight = 6
         pre = "internal"
-        post = "user-circle"
-        identifier = "about"        
+        post = "grav"        
     [[languages.en.menu.main]]
         pageref = "/tags/"
-        name = "Tags"
         weight = 7
         pre = "internal"
         post = "tags"
@@ -1580,12 +1578,12 @@ uglyURLs = false
         fontFamilySiteBrand = "'EB Garamond','Noto Serif SC', serif"
         fontFamilyMenu = "'EB Garamond','Noto Serif SC', serif"
         fontFamilyTitle = "'Cormorant Infant','Noto Serif SC', serif"        
-        fontFamilyHeadings = "'EB Garamond','Noto Serif SC', serif"
-        fontFamilyBody = "'Asap','Noto Serif SC', sans-serif"
+        fontFamilyHeadings = "'Cinzel','Noto Serif SC', serif"
+        fontFamilyBody = "'Cinzel','Noto Serif SC', serif"
         fontSize = 20
 
 
-        fontsLink = "https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,200&family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Infant:wght@700&display=swap"
+        fontsLink = "https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Infant:wght@700&display=swap"
         lineHeight = 1.55
         enableJustify = false
         enableSmallCaps = true

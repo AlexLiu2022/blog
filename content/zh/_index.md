@@ -9,10 +9,6 @@ description: "Eating's World & Eating's Work"
 	padding-top: 88px;
 	padding-bottom: 66px;
 }
-.post-title {
-	margin-top : 22px;
-	font-size: 1.77em;
-}
 .post-body {
     margin-top: 0 !important;
 }
