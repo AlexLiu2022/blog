@@ -222,45 +222,60 @@ uglyURLs = false
 
    [[menu.main]]
         url = "https://notes.eating.work"
-        name = "知识库"
-        weight = -1
-        pre = "internal"
+        name = "笔记"
+        weight = 1
+        pre = "external"
         post = "search"  
+
+    [[menu.main]]
+        name = "||"
+        weight = 2
+        url ="#"
+        
+    [[menu.main]]
+        url = "https://files.freezing.cool"
+        name = "网盘"
+        weight = 3
+        pre = "external"
+        post = "folder"      
 
     [[menu.main]]
         pageref = "/useless/"
         name = "个人"
-        weight = 1
+        weight = 4
         pre = "internal"
         post = "grav"
-        identifier = "useless"
+
     [[menu.main]]
         pageref = "/useful/"
         name = "工作"
-        weight = 2
+        weight = 5
         pre = "internal"
         post = "wpexplorer"
-        identifier = "work"
 
-    [[menu.main]]
-        pageref = "/tags/"
-        name = "标签"
-        weight = 3
-        pre = "internal"
-        post = "tags"
-  
     [[menu.main]]
         pageref = "/about/"
         name = "关于"
-        weight = 4
+        weight = 6
         pre = "internal"
         post = "user-circle"
         identifier = "about"
 
     [[menu.main]]
-        weight = 6
+        pageref = "/tags/"
+        name = "标签"
+        weight = 7
+        pre = "internal"
+        post = "tags"
+  
+    [[menu.main]]
+        weight = 8
         identifier = "lang-switcher"
 
+    [[menu.main]]
+        weight = 9
+        identifier = "theme-switcher"
+        
  
     ## 首页的底部链接
     [[menu.home]]
@@ -567,9 +582,9 @@ uglyURLs = false
     # 说明：light（浅色模式）或 dark（深色模式）
 
     # 是否隐藏模式切换开关
-    hideThemeToggle = true
+    hideThemeToggle = false
     # 是否在首页隐藏模式切换开关
-    hideThemeToggleInHome = true
+    hideThemeToggleInHome = false
     # 说明：如果开启了深色模式，即使你隐藏了开关，
     #      你的读者依然可能以深色模式阅读你的博
     #      客，如果该读者的系统设置为深色模式的
@@ -1308,9 +1323,9 @@ uglyURLs = false
     # 年份与作者之间的图标，留空（""）则无
     iconBetweenYearAndAuthor = "heart"
     # 图标颜色
-    iconColor = "#f06292"
+    iconColor = "15, 90%, 56%"
     # 是否开启图标的跳动效果
-    iconAnimation = false
+    iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
     displayPoweredBy = false
@@ -1512,38 +1527,51 @@ uglyURLs = false
 
    [[languages.en.menu.main]]
         url = "https://notes.eating.work"
-        name = "Library"
-        weight = -1
-        pre = "internal"
+        name = "Notes"
+        weight = 1
+        pre = "external"
         post = "search"  
+    [[languages.en.menu.main]]
+        name = "||"
+        weight = 2
+        url ="#"
+    [[languages.en.menu.main]]
+        url = "https://files.freezing.cool"
+        name = "Files"
+        weight = 3
+        pre = "external"
+        post = "folder" 
     [[languages.en.menu.main]]
         pageref = "/useless/"
         name = "Self"
-        weight = 1
+        weight = 4
         pre = "internal"
         post = "grav"
     [[languages.en.menu.main]]
         pageref = "/useful/"
         name = "Public"
-        weight = 2
+        weight = 5
         pre = "internal"
         post = "wpexplorer"
     [[languages.en.menu.main]]
+        pageref = "/about/"
+        name = "About"
+        weight = 6
+        pre = "internal"
+        post = "user-circle"
+        identifier = "about"        
+    [[languages.en.menu.main]]
         pageref = "/tags/"
         name = "Tags"
-        weight = 3
+        weight = 7
         pre = "internal"
         post = "tags"
     [[languages.en.menu.main]]
-        pageref = "/about/"
-        name = "About"
-        weight = 4
-        pre = "internal"
-        post = "user-circle"
-        identifier = "about"
-    [[languages.en.menu.main]]
-        weight = 5
+        weight = 8
         identifier = "lang-switcher"
+    [[languages.en.menu.main]]
+        weight = 9
+        identifier = "theme-switcher"        
     
     [languages.en.params]
         homePoetry = []

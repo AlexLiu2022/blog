@@ -12,11 +12,14 @@ Although "someone" is indeed a **literal big foodie**, it's still kind of funny 
 However, as a man who won the title of "**Eating Good Baby**" back in the kindergarten, he reluctantly accepted this setting ~
 
 ##### Sections
-- Library : The knowledge network formed by the notes taken on [Obsidian](https://obsidian.md/), published through the plug-in [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) 
+- Notes : The knowledge network formed by the notes taken on [Obsidian](https://obsidian.md/), published through the plug-in [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) 
+- Files: A list of files built using [Alist](https://alist.nn.ci/)
+	- Integrate the storage space of cloud server and each netdisk
+	- Personal file management || Share
 - Self : All kinds of fragments / serious || pretentious articles
 	- please read [About Readers](https://eating.work/en/useless/about-readers/)
 - Public : workflows, notes, tech blogs, investment related 
-
+- Tags: tag cloud for classification & retrieval
 <br>
 
 ##### Some Tips
