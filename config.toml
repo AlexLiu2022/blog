@@ -1293,7 +1293,7 @@ uglyURLs = false
     # 自定义页脚（支持 Markdown）
     customFooter = "Слава Украине! 🇺🇦"
  
-    displayBusuanziSiteUVAndPV = true
+    displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "访客数"
     busuanziSiteUVIcon = "user"
     busuanziSitePVText = "访问量"
