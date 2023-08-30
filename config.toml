@@ -376,7 +376,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "Eating's World & Eating's Work"
+    siteDescription = "Alex Liu's Blog"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -1551,7 +1551,7 @@ uglyURLs = false
     
     [languages.en.params]
         homePoetry = []
-        siteDescription = "Eating's World & Eating's Work"
+        siteDescription = "Alex Liu's Blog"
         listDateFormat = "2006-01-02"
 
 
