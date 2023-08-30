@@ -3,6 +3,7 @@ title: "Build Personal Pic-Bed, Free"
 date: 2022-08-08T21:00:00+08:00
 tags: ["free","tools","workflows","github","cdn","pic-bed"]
 toc: true
+tocNum: false
 ---
 
 
@@ -39,9 +40,9 @@ There are multiple options for building Pic-beds. Here is an analysis of the pro
 
 ## Technical Selection
 
-- Use **[GitHub](https://github.com/)** repository as a free Pic-bed (please use resources wisely, don't waste them)
-- Free CDN service using **[jsDelivr](https://www.jsdelivr.com/)** (guarantee high-speed access to repository resources)
-- Simplify operations with the automatic upload service provided by **[PicGo](https://picgo.github.io/PicGo-Doc/en/)**
+- Use **<a href="https://github.com/" target="_blank">GitHub</a>**  repository as a free Pic-bed (please use resources wisely, don't waste them)
+- Free CDN service using **<a href="https://www.jsdelivr.com/" target="_blank">jsDelivr</a>** (guarantee high-speed access to repository resources)
+- Simplify operations with the automatic upload service provided by **<a href="https://picgo.github.io/PicGo-Doc/en/" target="_blank">PicGo</a>**
 
 The advantages of this set of solutions are: **completely free**, fast speed, easy operation, pictures can be stored locally and in the cloud at the same time, and data is self-secure
 
@@ -49,7 +50,7 @@ The advantages of this set of solutions are: **completely free**, fast speed, ea
 
 ### Pre-knowledge
 
-1. Basic usages of [Git](https://git-scm.com/) and GitHub
+1. Basic usages of <a href="https://git-scm.com/" target="_blank">Git</a> and GitHub
 
 ### Step-by-step Instructions
 
@@ -66,7 +67,7 @@ The advantages of this set of solutions are: **completely free**, fast speed, ea
 > GitHub interface corresponding to the relevant operation
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-002.png)
 
-3. Download **[PicGo](https://picgo.github.io/PicGo-Doc/en/)** and open **Pic-Bed Settings** page:
+3. Download **<a href="https://picgo.github.io/PicGo-Doc/en/" target="_blank">PicGo</a>** and open **Pic-Bed Settings** page:
     1. Open the GitHub Pic-Bed page, set as **Default Pic-Bed**
     2. Set the repository name to `username/repo_name` (replace it with your own GitHub username/repository name you created in step 1)
     3. Set the branch name to `main` (or `master`)
@@ -79,7 +80,7 @@ The advantages of this set of solutions are: **completely free**, fast speed, ea
 
 4. Enable the automatic upload service
 
-Configure automatic upload service in your own editor such as **Typora** In the settings page, image --> Image Upload Setting, set Image Uploader to **PicGo**, in addition, it is highly recommended to use the [**Obsidian**](https://obsidian.md/) editor, which can be used with plugins for the best experience. Please [search]( https://www.bing.com) for other editors' configurations yourself.
+Configure automatic upload service in your own editor such as **Typora** In the settings page, image --> Image Upload Setting, set Image Uploader to **PicGo**, in addition, it is highly recommended to use the <a href="https://obsidian.md/" target="_blank">Obsidian</a> editor, which can be used with plugins for the best experience. Please <a href="https://google.com" target="_blank">search</a> for other editors' configurations yourself.
     
 > obsidiain Image auto upload plugin interface
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-004.png)

@@ -7,7 +7,7 @@ description: "Eating's World & Eating's Work"
 <style>
 #main {
 	padding-top: 88px;
-	padding-bottom: 66px;
+	padding-bottom: 115px !important ;
 }
 .post-body {
     margin-top: 0 !important;

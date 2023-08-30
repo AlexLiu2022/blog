@@ -11,19 +11,20 @@ Although "someone" is indeed a **literal big foodie**, it's still kind of funny 
 
 However, as a man who won the title of "**Eating Good Baby**" back in the kindergarten, he reluctantly accepted this setting ~
 
-##### Sections ( <u>Notes & Files are external links&nbsp;&nbsp;&nbsp;!&nbsp;&nbsp;&nbsp;!&nbsp;&nbsp;&nbsp;!&nbsp;&nbsp;</u> )
-- Notes : The knowledge network formed by the notes taken on [Obsidian](https://obsidian.md/), published through the plug-in [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) 
-- Files: A list of files built using [Alist](https://alist.nn.ci/)
-	- Integrate storages of cloud server and other netdisks
-	- Personal file management || Share
+##### Sections ( <u>Notes & Files are both independent websites </u> )
+
 - Public : workflows, notes, tech blogs, investment related 
 - Self : All kinds of fragments / serious || pretentious articles
 	- please read [About Readers](https://eating.work/en/useless/about-readers/)
-- Tags: tag cloud for classification & retrieval
+- Tags: tag cloud for classification & retrieval( for being cool in fact
+- Notes : The knowledge network formed by the notes taken on <a href="https://obsidian.md/" target="_blank">Obsidian</a>, published through the plug-in <a href="https://github.com/oleeskild/obsidian-digital-garden" target="_blank">Digital Garden</a>
+- Files: A list of files built using <a href="https://alist.nn.ci/" target="_blank">Alist</a>
+	- Integrate storages of cloud server and other netdisks
+	- Personal file management || Share
 <br>
 
 ##### Some Tips
- This blog is completely open source and is subject to change after publication, which can be found on [GitHub](https://github.com/AlexLiu2022/blog).
+ This blog is completely open source and is subject to change after publication, which can be found on <a href="https://github.com/AlexLiu2022/blog" target="_blank">GitHub</a>.
 
 Switch from EN to CN in the menu bar to view Chinese content (content is different and not updated synchronously)
 
@@ -35,7 +36,7 @@ Switch from EN to CN in the menu bar to view Chinese content (content is differe
 
 **Everything on this blog is my personal opinion.** If there is a copyright problem with related resources, please contact me to delete.<br>
 
-Welcome to my [GitHub](https://github.com/AlexLiu2022). **Have a nice day!**
+Welcome to my <a href="https://github.com/AlexLiu2022" target="_blank">GitHub</a>. **Have a nice day!**
 
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
 

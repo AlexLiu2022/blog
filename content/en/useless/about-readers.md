@@ -4,7 +4,7 @@ date: 2023-01-03T01:22:22+08:00
 tags: ["blog","explanation"]
 ---
 
-All the articles in the "Self"(aka useless) section of this blog are written for my own reading. But having chosen to present them as a website, rather than lying quietly in a local folder, they are destined to have readers.
+All the articles in the "Self" (aka useless) section are written for my own reading. But having chosen to present them on a website, rather than lying quietly in a local folder, they are likely to have readers.
 
 <img style = "margin-top : 20px; margin-bottom: 44px;" src = "https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/a-website-on-the-internet.jpg" />
 

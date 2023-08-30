@@ -3,6 +3,7 @@ title: "搭建个人图床"
 date: 2022-08-08T21:00:00+08:00
 tags: ["免费","工具","工作流","github","cdn","图床"]
 toc: true
+tocNum: false
 ---
 
 ## 需求分析
@@ -40,9 +41,9 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 ## 技术选型
 
-- 使用 **[GitHub](https://github.com/)** 仓库作为免费图床（请合理利用资源，不要浪费）
-- 使用 **[jsDelivr](https://www.jsdelivr.com/)** 的免费CDN加速服务（保证对仓库资源的访问速度)
-- 使用 **[PicGo](https://picgo.github.io/PicGo-Doc/zh/)** 提供的自动上传服务简化操作
+- 使用 **<a href="https://github.com/" target="_blank">GitHub</a>** 仓库作为免费图床（请合理利用资源，不要浪费）
+- 使用 **<a href="https://www.jsdelivr.com/" target="_blank">jsDelivr</a>** 的免费CDN加速服务（保证对仓库资源的访问速度)
+- 使用 **<a href="https://picgo.github.io/PicGo-Doc/zh/" target="_blank">PicGo</a>** 提供的自动上传服务简化操作
 
 这一套方案的优势是：**完全免费**、速度快、操作简便、图片可同时存放在本地和云端 数据自主安全
 
@@ -50,7 +51,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 ### 前置知识
 
-1. **[Git](https://git-scm.com/)** 和 **GitHub** 的基本使用
+1. **<a href="https://git-scm.com/" target="_blank">Git</a>** 和 **GitHub** 的基本使用
 
 ### 分步演示
 
@@ -68,7 +69,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-002.png)
 
 
-3. 下载 **[PicGo](https://picgo.github.io/PicGo-Doc/zh/)** 打开 **图床设置** 页面：
+3. 下载 **<a href="https://picgo.github.io/PicGo-Doc/zh/" target="_blank">PicGo</a>** 打开 **图床设置** 页面：
     1. 打开GitHub图床页面 设为**默认图床**
     2. 设定仓库名 为`username/repo_name`(**替换为你自己的**GitHub用户名/你在步骤1创建的仓库名)
     3. 设定分支名为 `main`(或`master`)
@@ -82,7 +83,7 @@ https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001
 
 4. 启用自动上传服务
 
-    在自己使用的编辑器中配置自动上传服务 如 **Typora** 在设置项 image --> Image Upload Setting中, 设置Image Uploader 为 **PicGo**, 此外强烈推荐使用[**Obsidian**](https://obsidian.md/)编辑器，可配合插件使用以获得最佳体验，其他编辑器配置请自行[搜索](https://www.bing.com)
+    在自己使用的编辑器中配置自动上传服务 如 **Typora** 在设置项 image --> Image Upload Setting中, 设置Image Uploader 为 **PicGo**, 此外强烈推荐使用<a href="https://obsidian.md/" target="_blank">Obsidian</a>编辑器，可配合插件使用以获得最佳体验，其他编辑器配置请自行<a href="https://google.com" target="_blank">搜索</a>
     
 >obsidiain Image auto upload Plugin界面
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-004.png)
