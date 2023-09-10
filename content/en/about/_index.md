@@ -5,7 +5,7 @@ anchor: false
 ---
 
 
-<strong style="font-size:1.4em"><center>This site is a personal blog.   <br><br>It's my world & has my work</center></strong>
+<strong style="font-size:28px"><center>This site is a personal blog.   <br><br>It's my world & has my work</center></strong>
 
 ##### Sections ( <u>Notes & Files are both independent websites </u> )
 
