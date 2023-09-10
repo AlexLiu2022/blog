@@ -4,12 +4,8 @@ date: 2022-09-22T12:22:22+08:00
 anchor: false
 ---
 
-**This website is a personal blog.  It's my world & has my work.**
 
-Although "someone" is indeed a **literal big foodie**, it's still kind of funny that his Chinese name is the homophone of  "<u>Eating</u>"[^1] --- the continuous tense of "eat".  <span style="white-space: nowrap;">(｡ì _ í｡)</span>
- 
-
-However, as a man who won the title of "**Eating Good Baby**" back in the kindergarten, he reluctantly accepted this setting ~
+<strong style="font-size:1.4em"><center>This site is a personal blog.   <br><br>It's my world & has my work</center></strong>
 
 ##### Sections ( <u>Notes & Files are both independent websites </u> )
 
@@ -40,14 +36,9 @@ Welcome to my <a href="https://github.com/AlexLiu2022" target="_blank">GitHub</a
 
 ![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
 
-[^1]: The origin of the site's & domain's name, boring enough
-
-
 
 <style>
-h1{
-  margin: 0 !important;
-}
+
 .post-body {
 margin-top: 2.7em !important;
 }
@@ -55,3 +46,8 @@ margin-top: 2.7em !important;
 	padding-top: 88px;
 }
 </style>
+
+<script>
+let title = document.querySelector('h1.post-title.p-name');
+title.remove();
+</script>

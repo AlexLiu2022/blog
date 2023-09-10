@@ -1,12 +1,12 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://eating.work"
-title = "EATING.WORK"
-languageCode = "zh-CN"
+baseURL = "https://liu.xyz"
+title = "Alex Liu's Blog"
+languageCode = "en-US"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
 # 主题选择
 theme = "meme"
@@ -15,7 +15,7 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "zh"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 # 是否复数化列表页面的标题
@@ -104,7 +104,7 @@ uglyURLs = false
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://eating.work"
+    website = "https://liu.xyz"
     # 推特
     twitter = "AlexLiuWeb3"
 
@@ -970,7 +970,7 @@ uglyURLs = false
     #      SVG，则可留空（""）品牌栏字体。
 
     # 品牌栏
-    fontFamilySiteBrand = ""
+    fontFamilySiteBrand = "'Rokkitt', serif"
     # 菜单栏
     fontFamilyMenu = ""
     # 文章标题、文章副标题、列表标题、列表的年份和月份标题、相关文章标题、文章上下篇标题、表格的表头、定义列表中的术语
@@ -991,7 +991,7 @@ uglyURLs = false
     fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
 
     # 网络字体链接
-    fontsLink = "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Infant:wght@700&display=swap"
+    fontsLink = "https://fonts.googleapis.com/css2?family=Rokkitt:wght@300&family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Infant:wght@700&display=swap"
     # 说明：要想读者一定体验到你设置的字体，最好
     #      采用网络字体。MemE 主题目前仅支持
     #      Google Fonts 的链接，请前往
@@ -1467,13 +1467,16 @@ uglyURLs = false
     [languages.zh]
         languageName = "CN"
         contentDir = "content/zh"
-        weight = 1
+        weight = 2
+        languageCode = "zh-CN"
+        copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+
 
     # 英文
     [languages.en]
         languageName = "EN"
         contentDir = "content/en"
-        weight = 2
+        weight = 1
         languageCode = "en-US"
         hasCJKLanguage = false
         copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
@@ -1565,7 +1568,7 @@ uglyURLs = false
         listDateFormat = "2006-01-02"
 
 
-        fontFamilySiteBrand = "'EB Garamond','Noto Serif SC', serif"
+        fontFamilySiteBrand = "'Rokkitt', serif"
         fontFamilyMenu = "'EB Garamond','Noto Serif SC', serif"
         fontFamilyTitle = "'Cormorant Infant','Noto Serif SC', serif"        
         fontFamilyHeadings = "'Cinzel','Noto Serif SC', serif"
@@ -1573,7 +1576,7 @@ uglyURLs = false
         fontSize = 20
 
 
-        fontsLink = "https://fonts.googleapis.com/css2?family=Forum&family=Cinzel:wght@500&family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Infant:wght@700&display=swap"
+        fontsLink = "https://fonts.googleapis.com/css2?family=Rokkitt:wght@300&family=Forum&family=Cinzel:wght@500&family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Infant:wght@700&display=swap"
         lineHeight = 1.55
 
 
