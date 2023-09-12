@@ -4,19 +4,19 @@ date: 2022-09-22T12:22:22+08:00
 anchor: false
 ---
 
-
 <center><span style="font-size:28px">This site is a personal blog.   <br><br>It's my world & has my work</span></center>
 
-##### Sections ( <u>Notes & Files are both independent websites </u> )
+##### Sections <center ><u>(Notes & Files & GPT are independent websites.)</u></center>
 
 - Public : workflows, notes, tech blogs, investment related 
 - Self : All kinds of fragments / serious || pretentious articles
-	- please read [About Readers](https://eating.work/en/useless/about-readers/)
-- Tags: tag cloud for classification & retrieval( for being cool in fact
+	- please read [About Readers](https://liu.xyz/useless/about-readers/)
 - Notes : The knowledge network formed by the notes taken on <a href="https://obsidian.md/" target="_blank">Obsidian</a>, published through the plug-in <a href="https://github.com/oleeskild/obsidian-digital-garden" target="_blank">Digital Garden</a>
 - Files: A list of files built using <a href="https://alist.nn.ci/" target="_blank">Alist</a>
 	- Integrate storages of cloud server and other netdisks
 	- Personal file management || Share
+- GPT : Mirror for private & friends' use
+- Tags : tag cloud for classification & retrieval( for being cool in fact
 <br>
 
 ##### Some Tips
