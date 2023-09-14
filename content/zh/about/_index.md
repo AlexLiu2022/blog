@@ -9,7 +9,7 @@ anchor: false
 ##### 分区 <center ><span style="font-size:20px"><u>(笔记 & 网盘 & GPT 是独立网站)</u><span></center>
 - 工作 ：工作流、笔记、技术博客、投资相关
 - 个人 ：各种碎碎念(中二 || 严肃) 
-	- 请阅读 [关于读者](https://liu.xyz/zh/useless/about-readers)
+	- 请阅读 [关于读者](https://alex.liu.xyz/zh/useless/about-readers)
 - 笔记 ：<a href="https://obsidian.md/" target="_blank">Obsidian</a>上笔记形成的知识网络 通过插件<a href="https://github.com/oleeskild/obsidian-digital-garden" target="_blank">Digital Garden</a> 发布
 - 网盘 ：使用<a href="https://alist.nn.ci/" target="_blank">Alist</a>搭建的文件列表 
 	- 整合云服务器及各个网盘

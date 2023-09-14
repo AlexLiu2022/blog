@@ -12,7 +12,7 @@ anchor: false
 
 - Public : workflows, notes, tech blogs, investment related 
 - Self : All kinds of fragments / serious || pretentious articles
-	- please read [About Readers](https://liu.xyz/useless/about-readers/)
+	- please read [About Readers](https://alex.liu.xyz/useless/about-readers/)
 - Notes : The knowledge network formed by the notes taken on <a href="https://obsidian.md/" target="_blank">Obsidian</a>, published through the plug-in <a href="https://github.com/oleeskild/obsidian-digital-garden" target="_blank">Digital Garden</a>
 - Files : A list of files built using <a href="https://alist.nn.ci/" target="_blank">Alist</a>
 	- Integrate storages of cloud server and other netdisks
