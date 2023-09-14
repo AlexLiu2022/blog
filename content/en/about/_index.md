@@ -37,7 +37,7 @@ Default language of this site is English. The Chinese first parallel site is <a 
 
 Welcome to my <a href="https://github.com/AlexLiu2022" target="_blank">GitHub</a>. **Have a nice day!**
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
 
 
 <style>
