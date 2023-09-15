@@ -27,7 +27,7 @@ FED手中可用于恐吓投资者的筹码已所剩无几：年内停止加息�
 - 数字资产：乐观
 	- 在我的认知内 We are still early
 	- 政治层面 立法层面 合规层面 整体向好
-	- 随着认知转变与共识建立 走势的内生逻辑会逐渐独立于美股 对宏观事件的反应甚至会相反 [It's gonna be a hedge](https://alex.liu.xyz/zh/useful/decentralized-future/)
+	- 随着认知转变与共识建立 走势的内生逻辑会逐渐独立于美股 对宏观事件的反应甚至会相反 [It's gonna be a hedge](https://alex.liu.xyz/cn/useful/decentralized-future/)
 	 <!-- Bitcoin/Ethereum   -->
 	- <del>屁股决定脑袋 —— 我会重仓</del>
 	- 看好的赛道

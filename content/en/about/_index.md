@@ -8,17 +8,19 @@ anchor: false
 
 ##### Sections 
 
-<center ><u><span style="font-size:24px">( Notes & Files & GPT are independent websites )</span></u></center>
-
-- Public : workflows, notes, tech blogs, investment related 
+- Public : tech blogs, investment related 
 - Self : All kinds of fragments / serious || pretentious articles
 	- please read [About Readers](https://alex.liu.xyz/useless/about-readers/)
-- Notes : The knowledge network formed by the notes taken on <a href="https://obsidian.md/" target="_blank">Obsidian</a>, published through the plug-in <a href="https://github.com/oleeskild/obsidian-digital-garden" target="_blank">Digital Garden</a>
-- Files : A list of files built using <a href="https://alist.nn.ci/" target="_blank">Alist</a>
+- Notes (external) : 
+	- The knowledge network formed by the notes taken on <a href="https://obsidian.md/" target="_blank">Obsidian</a>
+	- Published through the Obsidian community plugin <a href="https://github.com/oleeskild/obsidian-digital-garden" target="_blank">Digital Garden</a>
+- Files (external) : 
+	- A list of files built using <a href="https://alist.nn.ci/" target="_blank">Alist</a>
 	- Integrate storages of cloud server and other netdisks
 	- Personal file management || Share
-- GPT : Mirror for private & friends' use
-- Tags : tag cloud for classification & retrieval( for being cool in fact
+- GPT (external) : 
+	- Mirror for private & friends' use
+- Tags : tag cloud for classification & retrieval ( for being cool in fact
 <br>
 
 ##### Some Tips
@@ -31,6 +33,14 @@ Switch from EN to CN in the menu bar to view Chinese content (content is differe
 
 Default language of this site is English. The Chinese first parallel site is <a href="https://eating.work" target="_blank">here</a>.
 
+##### Subscribe 
+
+You can subscribe to this site's RSS feed for free using the link below[^1]:
+
+```url
+https://alex.liu.xyz/atom.xml
+```
+
 ##### Declaration
 
 **Everything on this blog is my personal opinion.** If there is a copyright problem with related resources, please contact me to delete.<br>
@@ -39,10 +49,11 @@ Welcome to my <a href="https://github.com/AlexLiu2022" target="_blank">GitHub</a
 
 ![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
 
+[^1]: Usually via feedly or other clients
 
 <style>
 .post-body {
-margin-top: 2.7em !important;
+margin-top: 1em !important;
 }
 #main {
 	padding-top: 88px;
