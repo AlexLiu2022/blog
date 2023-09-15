@@ -49,7 +49,7 @@ Welcome to my <a href="https://github.com/AlexLiu2022" target="_blank">GitHub</a
 
 ![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
 
-[^1]: Usually via feedly or other clients
+[^1]: Usually through online services such as feedly or clients such as reeder
 
 <style>
 .post-body {

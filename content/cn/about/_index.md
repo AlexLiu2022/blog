@@ -42,7 +42,7 @@ https://alex.liu.xyz/cn/atom.xml
 ![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
 
 [^1]: 其实是用来装逼的（误
-[^2]: 通常通过feedly或其他客户端
+[^2]: 通常通过feedly等在线服务或reeder等客户端
 <style>
 #main {
 	padding-top: 88px;

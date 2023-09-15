@@ -268,7 +268,7 @@ uglyURLs = false
         pre = "internal"
         post = "home"
     [[menu.links]]
-        url = "/tags/"
+        url = "/cn/tags/"
         name = " Tags"
         weight = 2
         pre = "internal"

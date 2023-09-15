@@ -24,7 +24,7 @@ You can see that the link representing the image is its local relative path, whi
 With a Pic-Bed, the image link will be as follows, in the form of an absolute path stored on the Internet
 
 ```url
-https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/blog-pic-bed-example-001-changed.jpeg
+https://cdngh/AlexLiu2022/resources/img/blog-pic-bed-example-001-changed.jpeg
 ```
 
 This makes it easy to store only the link of the image on the server in the articles. Content migration and version management become easy
