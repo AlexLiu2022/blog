@@ -8,34 +8,34 @@ anchor: false
 
 ##### Sections 
 
-- Public : tech blogs, investment related 
-- Self : All kinds of fragments / serious || pretentious articles
-	- please read [About Readers](https://alex.liu.xyz/useless/about-readers/)
-- Notes (external) : 
-	- The knowledge network formed by the notes taken on <a href="https://obsidian.md/" target="_blank">Obsidian</a>
-	- Published through the Obsidian community plugin <a href="https://github.com/oleeskild/obsidian-digital-garden" target="_blank">Digital Garden</a>
-- Files (external) : 
-	- A list of files built using <a href="https://alist.nn.ci/" target="_blank">Alist</a>
-	- Integrate storages of cloud server and other netdisks
-	- Personal file management || Share
-- GPT (external) : 
-	- Mirror for private & friends' use
-- Tags : tag cloud for classification & retrieval ( for being cool in fact
-<br>
+- About : 
+	- This page, basic info & others
+- Work : 
+	- Tech blogs, investment related 
+- Self : 
+	- All kinds of fragments in mind
+	- Serious &nbsp;|| &nbsp;Pretentious articles
+	- Please read [About Readers](https://alex.liu.xyz/useless/about-readers/) first
+- Tags : 
+	- Tag cloud used to classification
+	- ( Actually it's for being cool ... 
 
 ##### Some Tips
- This blog is completely open source and is subject to change after publication, which can be found on <a href="https://github.com/AlexLiu2022/blog" target="_blank">GitHub</a>.
 
-Switch from EN to CN in the menu bar to view Chinese content (content is different and not updated synchronously)
+ This blog is completely open source and its contents are subject to change after publication, which are tracked on <a href="https://github.com/AlexLiu2022/blog" target="_blank">GitHub</a>.
+
+Switch from EN to CN in the menu bar to view Chinese contents (contents are different and not updated synchronously)
 
 - Pages that exist in Chinese  will be redirected to the Chinese version
-- Others will be redirected to the Chinese version's homepage
+- Other pages will be redirected to the Chinese version's homepage
 
-Default language of this site is English. The Chinese first parallel site is <a href="https://eating.work" target="_blank">here</a>.
+Default language of this site is English. The Chinese-first parallel site is <a href="https://eating.work" target="_blank">here</a>.
+
+For my other websites[^1] please see `Links` at the bottom of this page.
 
 ##### Subscribe 
 
-You can subscribe to this site's RSS feed for free using the link below[^1]:
+You can subscribe to this site's RSS feed for free using the link below[^2]:
 
 ```url
 https://alex.liu.xyz/atom.xml
@@ -49,17 +49,18 @@ Welcome to my <a href="https://github.com/AlexLiu2022" target="_blank">GitHub</a
 
 ![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
 
-[^1]: Usually through online services such as feedly or clients such as reeder
+[^1]: Knowledge Library, File List, ChatGPT mirror site, etc.
+[^2]: Usually through online services such as feedly or clients such as reeder
 
 <style>
 .post-body {
-margin-top: 1em !important;
+margin-top: 2em !important;
 }
 #main {
 	padding-top: 88px;
 }
 #sections{
-margin-bottom :16px !important;
+margin-bottom : 30px !important;
 }
 </style>
 
