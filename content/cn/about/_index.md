@@ -47,13 +47,13 @@ https://alex.liu.xyz/cn/atom.xml
 
 ![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/cloud.jpg)
 
-[^1]: 其实是用来装逼的（误
+[^1]: 其实是用来提供一个好看的页面
 [^2]: 笔记库、文件站、GPT镜像站等
 [^3]: 通过feedly等服务或reeder等客户端
 
 <style>
 #main {
-	padding-top: 88px;
+	padding-top: 90px;
 }
 .post-body {
     margin-top: 0 !important;
