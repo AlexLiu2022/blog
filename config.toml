@@ -1136,14 +1136,14 @@ uglyURLs = false
     # 反馈链接的图标
     feedbackIcon = "question"
     # 反馈链接的文本
-    feedbackText = "Feedback"
+    feedbackText = "反馈问题"
 
     # 是否显示编辑链接
     displayEditLink = true
     # 编辑链接的图标
     editIcon = "edit"
     # 编辑链接的文本
-    editText = "Edit Me?"
+    editText = "编辑代码"
 
 
     ######################################
@@ -1579,6 +1579,9 @@ uglyURLs = false
         enableSmallCaps = true
         enableEmphasisPoint = false
         enableChinesePunctuationGlyphCorrection = true
+
+        feedbackText = "Feedback"
+        editText = "Edit me"
 
         enableAboutPageMinimalFooter = true
         customFooter = "Слава Украине! 🇺🇦"
