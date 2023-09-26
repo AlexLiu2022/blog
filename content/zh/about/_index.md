@@ -16,7 +16,7 @@ It's my world & has my work
 - 关于 ：本页面 基本信息与其他
 - 工作 ：技术博客、投资相关
 - 个人 ：各种碎碎念(中二 || 严肃) 
-	- 请阅读 [关于读者](https://alex.liu.xyz/cn/useless/about-readers)
+	- 请阅读 [关于读者](https://alex.liu.xyz/zh/useless/about-readers)
 
 - 标签 ：标签云 用于分类 & 检索[^1]
 
@@ -35,10 +35,10 @@ It's my world & has my work
 
 你可以用[^3]以下的链接免费订阅本站的RSS feed:
 ```url
-https://alex.liu.xyz/cn/atom.xml
+https://alex.liu.xyz/zh/atom.xml
 ```
 
-- 推荐阅读 [关于RSS Feeds](https://alex.liu.xyz/cn/useful/about-rss-feeds/)
+- 推荐阅读 [关于RSS Feeds](https://alex.liu.xyz/zh/useful/about-rss-feeds/)
 
 ##### 声明
 **本博客一切内容均为个人观点** 相关资源若有版权问题请联系我删除 <br>
