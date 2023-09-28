@@ -250,7 +250,7 @@ uglyURLs = false
         pre = "internal"
         post = "home"
     [[menu.links]]
-        url = "/cn/tags/"
+        url = "/zh/tags/"
         name = " Tags"
         weight = 2
         pre = "internal"
@@ -262,7 +262,7 @@ uglyURLs = false
         pre = "external"
         post = "link"
     [[menu.links]]
-        url = "https://alex.liu.xyz/cn/atom.xml"
+        url = "https://alex.liu.xyz/zh/atom.xml"
         name = " RSS"
         weight = 4
         pre = "external"
