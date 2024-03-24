@@ -5,7 +5,7 @@ tags: ['X','内容输出']
 badge: true
 ---
 <center>
-3月11日开始在X/推特上做内容输出。这里用于搬运更新。
+3月11日开始在X/推特上做内容输出。这里用于搬运更新。正确显示需魔法。
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">How to become a visionary long-term investor? <br>如何成为一个有远见的长期投资者？<br>原理科普 + 观点分享。<br>A Thread 🧵 ⬇️ <a href="https://t.co/54zuMeG2gq">pic.twitter.com/54zuMeG2gq</a></p>&mdash; Alex Liu 🔥💃 (@liu_web3) <a href="https://twitter.com/liu_web3/status/1766992280798560586?ref_src=twsrc%5Etfw">March 11, 2024</a></blockquote> 
 
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">坎昆升级将至，ETH扩容赛道中，为什么我认为<a href="https://twitter.com/0xPolygon?ref_src=twsrc%5Etfw">@0xPolygon</a>价值被低估，更值得埋伏？<br><br>1/2 基本面篇 <a href="https://twitter.com/search?q=%24POL&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$POL</a> <a href="https://twitter.com/search?q=%24MATIC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MATIC</a><a href="https://twitter.com/hashtag/DencunUpgrade?src=hash&amp;ref_src=twsrc%5Etfw">#DencunUpgrade</a> <a href="https://twitter.com/hashtag/EIP4844?src=hash&amp;ref_src=twsrc%5Etfw">#EIP4844</a> <br><br>A Thread🧵⬇️ <a href="https://t.co/Wd2Xcy0XWA">pic.twitter.com/Wd2Xcy0XWA</a></p>&mdash; Alex Liu 🔥💃 (@liu_web3) <a href="https://twitter.com/liu_web3/status/1767747384245985380?ref_src=twsrc%5Etfw">March 13, 2024</a></blockquote> 
